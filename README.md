@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0007-reverse-integer](https://github.com/VeerShah41/DSA_Algo/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/VeerShah41/DSA_Algo/tree/master/0009-palindrome-number) |
+| [0013-roman-to-integer](https://github.com/VeerShah41/DSA_Algo/tree/master/0013-roman-to-integer) |
 | [0069-sqrtx](https://github.com/VeerShah41/DSA_Algo/tree/master/0069-sqrtx) |
 ## Binary Search
 |  |
@@ -41,4 +42,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0136-single-number](https://github.com/VeerShah41/DSA_Algo/tree/master/0136-single-number) |
+## Hash Table
+|  |
+| ------- |
+| [0013-roman-to-integer](https://github.com/VeerShah41/DSA_Algo/tree/master/0013-roman-to-integer) |
+## String
+|  |
+| ------- |
+| [0013-roman-to-integer](https://github.com/VeerShah41/DSA_Algo/tree/master/0013-roman-to-integer) |
 <!---LeetCode Topics End-->
