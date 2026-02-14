@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0012-integer-to-roman](https://github.com/VeerShah41/DSA_Algo/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/VeerShah41/DSA_Algo/tree/master/0013-roman-to-integer) |
 | [0066-plus-one](https://github.com/VeerShah41/DSA_Algo/tree/master/0066-plus-one) |
+| [0067-add-binary](https://github.com/VeerShah41/DSA_Algo/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/VeerShah41/DSA_Algo/tree/master/0069-sqrtx) |
 ## Binary Search
 |  |
@@ -59,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/VeerShah41/DSA_Algo/tree/master/0067-add-binary) |
 | [0136-single-number](https://github.com/VeerShah41/DSA_Algo/tree/master/0136-single-number) |
 | [0222-count-complete-tree-nodes](https://github.com/VeerShah41/DSA_Algo/tree/master/0222-count-complete-tree-nodes) |
 ## Hash Table
@@ -73,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0012-integer-to-roman](https://github.com/VeerShah41/DSA_Algo/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/VeerShah41/DSA_Algo/tree/master/0013-roman-to-integer) |
 | [0020-valid-parentheses](https://github.com/VeerShah41/DSA_Algo/tree/master/0020-valid-parentheses) |
+| [0067-add-binary](https://github.com/VeerShah41/DSA_Algo/tree/master/0067-add-binary) |
 ## Two Pointers
 |  |
 | ------- |
@@ -102,4 +105,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/VeerShah41/DSA_Algo/tree/master/0088-merge-sorted-array) |
+## Simulation
+|  |
+| ------- |
+| [0067-add-binary](https://github.com/VeerShah41/DSA_Algo/tree/master/0067-add-binary) |
 <!---LeetCode Topics End-->
