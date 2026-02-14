@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/VeerShah41/DSA_Algo/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/VeerShah41/DSA_Algo/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/VeerShah41/DSA_Algo/tree/master/0069-sqrtx) |
+| [1137-n-th-tribonacci-number](https://github.com/VeerShah41/DSA_Algo/tree/master/1137-n-th-tribonacci-number) |
 ## Binary Search
 |  |
 | ------- |
@@ -109,4 +110,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/VeerShah41/DSA_Algo/tree/master/0067-add-binary) |
+## Dynamic Programming
+|  |
+| ------- |
+| [1137-n-th-tribonacci-number](https://github.com/VeerShah41/DSA_Algo/tree/master/1137-n-th-tribonacci-number) |
+## Memoization
+|  |
+| ------- |
+| [1137-n-th-tribonacci-number](https://github.com/VeerShah41/DSA_Algo/tree/master/1137-n-th-tribonacci-number) |
 <!---LeetCode Topics End-->
