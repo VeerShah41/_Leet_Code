@@ -6,5 +6,5 @@ class Solution(object):
         """
         if x<0:
             return False
-        y=str(x)
-        return x==int(y[::-1])
+        y=str(x)[::-1]
+        return x==int(y)
