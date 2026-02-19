@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/VeerShah41/DSA_Algo/tree/master/0066-plus-one) |
 | [0088-merge-sorted-array](https://github.com/VeerShah41/DSA_Algo/tree/master/0088-merge-sorted-array) |
 | [0136-single-number](https://github.com/VeerShah41/DSA_Algo/tree/master/0136-single-number) |
+| [0169-majority-element](https://github.com/VeerShah41/DSA_Algo/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/VeerShah41/DSA_Algo/tree/master/0217-contains-duplicate) |
 ## Bit Manipulation
 |  |
@@ -75,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0012-integer-to-roman](https://github.com/VeerShah41/DSA_Algo/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/VeerShah41/DSA_Algo/tree/master/0013-roman-to-integer) |
 | [0141-linked-list-cycle](https://github.com/VeerShah41/DSA_Algo/tree/master/0141-linked-list-cycle) |
+| [0169-majority-element](https://github.com/VeerShah41/DSA_Algo/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/VeerShah41/DSA_Algo/tree/master/0217-contains-duplicate) |
 ## String
 |  |
@@ -115,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/VeerShah41/DSA_Algo/tree/master/0088-merge-sorted-array) |
+| [0169-majority-element](https://github.com/VeerShah41/DSA_Algo/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/VeerShah41/DSA_Algo/tree/master/0217-contains-duplicate) |
 ## Simulation
 |  |
@@ -136,4 +139,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0175-combine-two-tables](https://github.com/VeerShah41/DSA_Algo/tree/master/0175-combine-two-tables) |
 | [0181-employees-earning-more-than-their-managers](https://github.com/VeerShah41/DSA_Algo/tree/master/0181-employees-earning-more-than-their-managers) |
 | [0182-duplicate-emails](https://github.com/VeerShah41/DSA_Algo/tree/master/0182-duplicate-emails) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/VeerShah41/DSA_Algo/tree/master/0169-majority-element) |
+## Counting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/VeerShah41/DSA_Algo/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
