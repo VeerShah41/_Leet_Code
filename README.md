@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/VeerShah41/DSA_Algo/tree/master/0035-search-insert-position) |
 | [0066-plus-one](https://github.com/VeerShah41/DSA_Algo/tree/master/0066-plus-one) |
 | [0088-merge-sorted-array](https://github.com/VeerShah41/DSA_Algo/tree/master/0088-merge-sorted-array) |
+| [0134-gas-station](https://github.com/VeerShah41/DSA_Algo/tree/master/0134-gas-station) |
 | [0136-single-number](https://github.com/VeerShah41/DSA_Algo/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/VeerShah41/DSA_Algo/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/VeerShah41/DSA_Algo/tree/master/0217-contains-duplicate) |
@@ -152,4 +153,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/VeerShah41/DSA_Algo/tree/master/0169-majority-element) |
+## Greedy
+|  |
+| ------- |
+| [0134-gas-station](https://github.com/VeerShah41/DSA_Algo/tree/master/0134-gas-station) |
 <!---LeetCode Topics End-->
