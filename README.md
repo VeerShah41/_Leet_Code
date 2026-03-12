@@ -172,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0196-delete-duplicate-emails](https://github.com/VeerShah41/DSA_Algo/tree/master/0196-delete-duplicate-emails) |
 | [0197-rising-temperature](https://github.com/VeerShah41/_Leet_Code/tree/master/0197-rising-temperature) |
 | [0511-game-play-analysis-i](https://github.com/VeerShah41/DSA_Algo/tree/master/0511-game-play-analysis-i) |
+| [0570-managers-with-at-least-5-direct-reports](https://github.com/VeerShah41/_Leet_Code/tree/master/0570-managers-with-at-least-5-direct-reports) |
 | [0577-employee-bonus](https://github.com/VeerShah41/DSA_Algo/tree/master/0577-employee-bonus) |
 | [0595-big-countries](https://github.com/VeerShah41/DSA_Algo/tree/master/0595-big-countries) |
 ## Divide and Conquer
