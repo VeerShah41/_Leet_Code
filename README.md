@@ -98,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0012-integer-to-roman](https://github.com/VeerShah41/DSA_Algo/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/VeerShah41/DSA_Algo/tree/master/0013-roman-to-integer) |
 | [0020-valid-parentheses](https://github.com/VeerShah41/DSA_Algo/tree/master/0020-valid-parentheses) |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/VeerShah41/_Leet_Code/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0067-add-binary](https://github.com/VeerShah41/DSA_Algo/tree/master/0067-add-binary) |
 | [0516-longest-palindromic-subsequence](https://github.com/VeerShah41/_Leet_Code/tree/master/0516-longest-palindromic-subsequence) |
 ## Two Pointers
@@ -107,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0019-remove-nth-node-from-end-of-list](https://github.com/VeerShah41/DSA_Algo/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/VeerShah41/_Leet_Code/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/VeerShah41/DSA_Algo/tree/master/0027-remove-element) |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/VeerShah41/_Leet_Code/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0075-sort-colors](https://github.com/VeerShah41/_Leet_Code/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/VeerShah41/DSA_Algo/tree/master/0088-merge-sorted-array) |
 | [0141-linked-list-cycle](https://github.com/VeerShah41/DSA_Algo/tree/master/0141-linked-list-cycle) |
@@ -194,4 +196,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/VeerShah41/_Leet_Code/tree/master/0003-longest-substring-without-repeating-characters) |
+## String Matching
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/VeerShah41/_Leet_Code/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 <!---LeetCode Topics End-->
