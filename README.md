@@ -78,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0162-find-peak-element](https://github.com/VeerShah41/_Leet_Code/tree/master/0162-find-peak-element) |
 | [0169-majority-element](https://github.com/VeerShah41/DSA_Algo/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/VeerShah41/DSA_Algo/tree/master/0217-contains-duplicate) |
+| [0219-contains-duplicate-ii](https://github.com/VeerShah41/_Leet_Code/tree/master/0219-contains-duplicate-ii) |
 | [0283-move-zeroes](https://github.com/VeerShah41/_Leet_Code/tree/master/0283-move-zeroes) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/VeerShah41/DSA_Algo/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 ## Bit Manipulation
@@ -98,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/VeerShah41/DSA_Algo/tree/master/0141-linked-list-cycle) |
 | [0169-majority-element](https://github.com/VeerShah41/DSA_Algo/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/VeerShah41/DSA_Algo/tree/master/0217-contains-duplicate) |
+| [0219-contains-duplicate-ii](https://github.com/VeerShah41/_Leet_Code/tree/master/0219-contains-duplicate-ii) |
 ## String
 |  |
 | ------- |
@@ -205,6 +207,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/VeerShah41/_Leet_Code/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0219-contains-duplicate-ii](https://github.com/VeerShah41/_Leet_Code/tree/master/0219-contains-duplicate-ii) |
 ## String Matching
 |  |
 | ------- |
