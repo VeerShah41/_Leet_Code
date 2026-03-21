@@ -97,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/VeerShah41/DSA_Algo/tree/master/0013-roman-to-integer) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/VeerShah41/_Leet_Code/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0141-linked-list-cycle](https://github.com/VeerShah41/DSA_Algo/tree/master/0141-linked-list-cycle) |
+| [0160-intersection-of-two-linked-lists](https://github.com/VeerShah41/_Leet_Code/tree/master/0160-intersection-of-two-linked-lists) |
 | [0169-majority-element](https://github.com/VeerShah41/DSA_Algo/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/VeerShah41/DSA_Algo/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/VeerShah41/_Leet_Code/tree/master/0219-contains-duplicate-ii) |
@@ -122,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/VeerShah41/_Leet_Code/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/VeerShah41/DSA_Algo/tree/master/0088-merge-sorted-array) |
 | [0141-linked-list-cycle](https://github.com/VeerShah41/DSA_Algo/tree/master/0141-linked-list-cycle) |
+| [0160-intersection-of-two-linked-lists](https://github.com/VeerShah41/_Leet_Code/tree/master/0160-intersection-of-two-linked-lists) |
 | [0283-move-zeroes](https://github.com/VeerShah41/_Leet_Code/tree/master/0283-move-zeroes) |
 ## Linked List
 |  |
@@ -131,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0021-merge-two-sorted-lists](https://github.com/VeerShah41/DSA_Algo/tree/master/0021-merge-two-sorted-lists) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/VeerShah41/DSA_Algo/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0141-linked-list-cycle](https://github.com/VeerShah41/DSA_Algo/tree/master/0141-linked-list-cycle) |
+| [0160-intersection-of-two-linked-lists](https://github.com/VeerShah41/_Leet_Code/tree/master/0160-intersection-of-two-linked-lists) |
 ## Recursion
 |  |
 | ------- |
