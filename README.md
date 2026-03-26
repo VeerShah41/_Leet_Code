@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/VeerShah41/DSA_Algo/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/VeerShah41/DSA_Algo/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/VeerShah41/DSA_Algo/tree/master/0069-sqrtx) |
+| [0168-excel-sheet-column-title](https://github.com/VeerShah41/_Leet_Code/tree/master/0168-excel-sheet-column-title) |
 | [0204-count-primes](https://github.com/VeerShah41/_Leet_Code/tree/master/0204-count-primes) |
 | [0509-fibonacci-number](https://github.com/VeerShah41/DSA_Algo/tree/master/0509-fibonacci-number) |
 | [1137-n-th-tribonacci-number](https://github.com/VeerShah41/DSA_Algo/tree/master/1137-n-th-tribonacci-number) |
@@ -116,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/VeerShah41/_Leet_Code/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0043-multiply-strings](https://github.com/VeerShah41/_Leet_Code/tree/master/0043-multiply-strings) |
 | [0067-add-binary](https://github.com/VeerShah41/DSA_Algo/tree/master/0067-add-binary) |
+| [0168-excel-sheet-column-title](https://github.com/VeerShah41/_Leet_Code/tree/master/0168-excel-sheet-column-title) |
 | [0516-longest-palindromic-subsequence](https://github.com/VeerShah41/_Leet_Code/tree/master/0516-longest-palindromic-subsequence) |
 ## Two Pointers
 |  |
