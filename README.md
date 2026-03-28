@@ -86,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0219-contains-duplicate-ii](https://github.com/VeerShah41/_Leet_Code/tree/master/0219-contains-duplicate-ii) |
 | [0283-move-zeroes](https://github.com/VeerShah41/_Leet_Code/tree/master/0283-move-zeroes) |
 | [0867-transpose-matrix](https://github.com/VeerShah41/_Leet_Code/tree/master/0867-transpose-matrix) |
+| [0977-squares-of-a-sorted-array](https://github.com/VeerShah41/_Leet_Code/tree/master/0977-squares-of-a-sorted-array) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/VeerShah41/DSA_Algo/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 ## Bit Manipulation
 |  |
@@ -134,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/VeerShah41/DSA_Algo/tree/master/0141-linked-list-cycle) |
 | [0160-intersection-of-two-linked-lists](https://github.com/VeerShah41/_Leet_Code/tree/master/0160-intersection-of-two-linked-lists) |
 | [0283-move-zeroes](https://github.com/VeerShah41/_Leet_Code/tree/master/0283-move-zeroes) |
+| [0977-squares-of-a-sorted-array](https://github.com/VeerShah41/_Leet_Code/tree/master/0977-squares-of-a-sorted-array) |
 ## Linked List
 |  |
 | ------- |
@@ -168,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/VeerShah41/DSA_Algo/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/VeerShah41/DSA_Algo/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/VeerShah41/DSA_Algo/tree/master/0217-contains-duplicate) |
+| [0977-squares-of-a-sorted-array](https://github.com/VeerShah41/_Leet_Code/tree/master/0977-squares-of-a-sorted-array) |
 ## Simulation
 |  |
 | ------- |
