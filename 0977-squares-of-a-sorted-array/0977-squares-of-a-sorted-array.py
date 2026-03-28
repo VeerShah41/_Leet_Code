@@ -5,7 +5,7 @@ class Solution(object):
         :rtype: List[int]
         """
         l,r=0,len(nums)-1
-        mid=0
+        
         lis=[0]*len(nums)
         i=1
         while l<=r and i<=len(nums)+1:
