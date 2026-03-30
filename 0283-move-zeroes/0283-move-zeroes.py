@@ -6,13 +6,18 @@ class Solution(object):
         :type nums: List[int]
         :rtype: None Do not return anything, modify nums in-place instead.
         """
-        d=deque()
-        zero=0
-        for i in nums:
-            if i!=0:
-                d.append(i)
+        l,r=0,1
+        while r<len(nums):
+            if nums[l]==0:
+                if nums[r]==0:
+                    r+=1
+                
+                elif r<len(nums):
+
+                    nums[l],nums[r]=nums[r],nums[l]
+                    l+=1
+                    r+=1
             else:
-                zero+=1
-        d.extend([0] * zero)
-        for j in range(len(nums)):
-            nums[j]=d[j]
+                l+=1
+                r+=1
+        return nums
