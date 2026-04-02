@@ -4,23 +4,21 @@ class Solution(object):
         :type s: str
         :rtype: bool
         """
-        l=[]
-        op=["(","{","["]
+        if not s:
+            return True
+        l={'(':')','{':'}','[':']'}
+        stack = []
         for i in s:
-            if i in op:
-                l.append(i)
+            if i in l.keys():
+                stack.append(i)
+
             else:
-                if l:
-                    x=l.pop()
-                    if x=="(" and i!=")":
-                        return False
-                    if x=="[" and i!="]":
-                        return False
-                    if x=="{" and i!="}":
+                if stack:
+                    x=stack.pop()
+                    
+                    if i!=l[x]:
                         return False
                 else:
                     return False
-        if len(l)==0:
-            return True
-        else:
-            return False
+            
+        return len(stack)==0
