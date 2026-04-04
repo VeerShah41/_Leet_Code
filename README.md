@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0171-excel-sheet-column-number](https://github.com/VeerShah41/_Leet_Code/tree/master/0171-excel-sheet-column-number) |
 | [0189-rotate-array](https://github.com/VeerShah41/_Leet_Code/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/VeerShah41/_Leet_Code/tree/master/0204-count-primes) |
+| [0326-power-of-three](https://github.com/VeerShah41/_Leet_Code/tree/master/0326-power-of-three) |
 | [0509-fibonacci-number](https://github.com/VeerShah41/DSA_Algo/tree/master/0509-fibonacci-number) |
 | [1137-n-th-tribonacci-number](https://github.com/VeerShah41/DSA_Algo/tree/master/1137-n-th-tribonacci-number) |
 ## Binary Search
@@ -159,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/VeerShah41/_Leet_Code/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/VeerShah41/DSA_Algo/tree/master/0021-merge-two-sorted-lists) |
 | [0050-powx-n](https://github.com/VeerShah41/_Leet_Code/tree/master/0050-powx-n) |
+| [0326-power-of-three](https://github.com/VeerShah41/_Leet_Code/tree/master/0326-power-of-three) |
 | [0509-fibonacci-number](https://github.com/VeerShah41/DSA_Algo/tree/master/0509-fibonacci-number) |
 ## Design
 |  |
