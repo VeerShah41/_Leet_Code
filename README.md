@@ -115,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/VeerShah41/DSA_Algo/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/VeerShah41/DSA_Algo/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/VeerShah41/_Leet_Code/tree/master/0219-contains-duplicate-ii) |
+| [0242-valid-anagram](https://github.com/VeerShah41/_Leet_Code/tree/master/0242-valid-anagram) |
 ## String
 |  |
 | ------- |
@@ -128,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/VeerShah41/DSA_Algo/tree/master/0067-add-binary) |
 | [0168-excel-sheet-column-title](https://github.com/VeerShah41/_Leet_Code/tree/master/0168-excel-sheet-column-title) |
 | [0171-excel-sheet-column-number](https://github.com/VeerShah41/_Leet_Code/tree/master/0171-excel-sheet-column-number) |
+| [0242-valid-anagram](https://github.com/VeerShah41/_Leet_Code/tree/master/0242-valid-anagram) |
 | [0516-longest-palindromic-subsequence](https://github.com/VeerShah41/_Leet_Code/tree/master/0516-longest-palindromic-subsequence) |
 | [0796-rotate-string](https://github.com/VeerShah41/_Leet_Code/tree/master/0796-rotate-string) |
 ## Two Pointers
@@ -181,6 +183,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/VeerShah41/DSA_Algo/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/VeerShah41/_Leet_Code/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/VeerShah41/DSA_Algo/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/VeerShah41/_Leet_Code/tree/master/0242-valid-anagram) |
 | [0977-squares-of-a-sorted-array](https://github.com/VeerShah41/_Leet_Code/tree/master/0977-squares-of-a-sorted-array) |
 ## Simulation
 |  |
