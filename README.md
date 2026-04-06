@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0171-excel-sheet-column-number](https://github.com/VeerShah41/_Leet_Code/tree/master/0171-excel-sheet-column-number) |
 | [0189-rotate-array](https://github.com/VeerShah41/_Leet_Code/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/VeerShah41/_Leet_Code/tree/master/0204-count-primes) |
+| [0231-power-of-two](https://github.com/VeerShah41/_Leet_Code/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/VeerShah41/_Leet_Code/tree/master/0268-missing-number) |
 | [0326-power-of-three](https://github.com/VeerShah41/_Leet_Code/tree/master/0326-power-of-three) |
 | [0509-fibonacci-number](https://github.com/VeerShah41/DSA_Algo/tree/master/0509-fibonacci-number) |
@@ -105,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/VeerShah41/DSA_Algo/tree/master/0067-add-binary) |
 | [0136-single-number](https://github.com/VeerShah41/DSA_Algo/tree/master/0136-single-number) |
 | [0222-count-complete-tree-nodes](https://github.com/VeerShah41/DSA_Algo/tree/master/0222-count-complete-tree-nodes) |
+| [0231-power-of-two](https://github.com/VeerShah41/_Leet_Code/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/VeerShah41/_Leet_Code/tree/master/0268-missing-number) |
 ## Hash Table
 |  |
@@ -167,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/VeerShah41/_Leet_Code/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/VeerShah41/DSA_Algo/tree/master/0021-merge-two-sorted-lists) |
 | [0050-powx-n](https://github.com/VeerShah41/_Leet_Code/tree/master/0050-powx-n) |
+| [0231-power-of-two](https://github.com/VeerShah41/_Leet_Code/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/VeerShah41/_Leet_Code/tree/master/0326-power-of-three) |
 | [0509-fibonacci-number](https://github.com/VeerShah41/DSA_Algo/tree/master/0509-fibonacci-number) |
 ## Design
