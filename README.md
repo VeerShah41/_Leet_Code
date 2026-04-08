@@ -124,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0219-contains-duplicate-ii](https://github.com/VeerShah41/_Leet_Code/tree/master/0219-contains-duplicate-ii) |
 | [0242-valid-anagram](https://github.com/VeerShah41/_Leet_Code/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/VeerShah41/_Leet_Code/tree/master/0268-missing-number) |
+| [3541-find-most-frequent-vowel-and-consonant](https://github.com/VeerShah41/_Leet_Code/tree/master/3541-find-most-frequent-vowel-and-consonant) |
 ## String
 |  |
 | ------- |
@@ -142,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0516-longest-palindromic-subsequence](https://github.com/VeerShah41/_Leet_Code/tree/master/0516-longest-palindromic-subsequence) |
 | [0796-rotate-string](https://github.com/VeerShah41/_Leet_Code/tree/master/0796-rotate-string) |
 | [3110-score-of-a-string](https://github.com/VeerShah41/_Leet_Code/tree/master/3110-score-of-a-string) |
+| [3541-find-most-frequent-vowel-and-consonant](https://github.com/VeerShah41/_Leet_Code/tree/master/3541-find-most-frequent-vowel-and-consonant) |
 ## Two Pointers
 |  |
 | ------- |
@@ -245,6 +247,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/VeerShah41/DSA_Algo/tree/master/0169-majority-element) |
+| [3541-find-most-frequent-vowel-and-consonant](https://github.com/VeerShah41/_Leet_Code/tree/master/3541-find-most-frequent-vowel-and-consonant) |
 ## Greedy
 |  |
 | ------- |
