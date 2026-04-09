@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/VeerShah41/_Leet_Code/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/VeerShah41/_Leet_Code/tree/master/0204-count-primes) |
 | [0231-power-of-two](https://github.com/VeerShah41/_Leet_Code/tree/master/0231-power-of-two) |
+| [0258-add-digits](https://github.com/VeerShah41/_Leet_Code/tree/master/0258-add-digits) |
 | [0268-missing-number](https://github.com/VeerShah41/_Leet_Code/tree/master/0268-missing-number) |
 | [0326-power-of-three](https://github.com/VeerShah41/_Leet_Code/tree/master/0326-power-of-three) |
 | [0415-add-strings](https://github.com/VeerShah41/_Leet_Code/tree/master/0415-add-strings) |
@@ -204,6 +205,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0043-multiply-strings](https://github.com/VeerShah41/_Leet_Code/tree/master/0043-multiply-strings) |
 | [0067-add-binary](https://github.com/VeerShah41/DSA_Algo/tree/master/0067-add-binary) |
+| [0258-add-digits](https://github.com/VeerShah41/_Leet_Code/tree/master/0258-add-digits) |
 | [0415-add-strings](https://github.com/VeerShah41/_Leet_Code/tree/master/0415-add-strings) |
 | [0867-transpose-matrix](https://github.com/VeerShah41/_Leet_Code/tree/master/0867-transpose-matrix) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/VeerShah41/DSA_Algo/tree/master/1700-number-of-students-unable-to-eat-lunch) |
@@ -281,6 +283,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/VeerShah41/_Leet_Code/tree/master/0204-count-primes) |
+| [0258-add-digits](https://github.com/VeerShah41/_Leet_Code/tree/master/0258-add-digits) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
