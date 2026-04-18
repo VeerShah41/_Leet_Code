@@ -259,6 +259,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0595-big-countries](https://github.com/VeerShah41/DSA_Algo/tree/master/0595-big-countries) |
 | [0596-classes-with-at-least-5-students](https://github.com/VeerShah41/_Leet_Code/tree/master/0596-classes-with-at-least-5-students) |
 | [0627-swap-sex-of-employees](https://github.com/VeerShah41/_Leet_Code/tree/master/0627-swap-sex-of-employees) |
+| [1068-product-sales-analysis-i](https://github.com/VeerShah41/_Leet_Code/tree/master/1068-product-sales-analysis-i) |
 ## Divide and Conquer
 |  |
 | ------- |
