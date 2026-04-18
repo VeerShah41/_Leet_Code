@@ -4,15 +4,13 @@ class Solution(object):
         :type s: str
         :rtype: str
         """
-        l=''
+        l=[]
         for i in range(len(s)):
-            j = s[i]
-            if j!="*":
-                l+=j
+            if s[i]=="*":
+                l.pop()
             else:
-                if l:
-                    l = l[:-1]
-        return l
+                l.append(s[i])
+        return "".join(l)
 
 
         
