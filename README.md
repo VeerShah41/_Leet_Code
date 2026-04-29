@@ -168,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0771-jewels-and-stones](https://github.com/VeerShah41/_Leet_Code/tree/master/0771-jewels-and-stones) |
 | [0796-rotate-string](https://github.com/VeerShah41/_Leet_Code/tree/master/0796-rotate-string) |
 | [1704-determine-if-string-halves-are-alike](https://github.com/VeerShah41/_Leet_Code/tree/master/1704-determine-if-string-halves-are-alike) |
+| [1768-merge-strings-alternately](https://github.com/VeerShah41/_Leet_Code/tree/master/1768-merge-strings-alternately) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/VeerShah41/_Leet_Code/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2390-removing-stars-from-a-string](https://github.com/VeerShah41/_Leet_Code/tree/master/2390-removing-stars-from-a-string) |
 | [3110-score-of-a-string](https://github.com/VeerShah41/_Leet_Code/tree/master/3110-score-of-a-string) |
@@ -187,6 +188,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/VeerShah41/_Leet_Code/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/VeerShah41/_Leet_Code/tree/master/0283-move-zeroes) |
 | [0977-squares-of-a-sorted-array](https://github.com/VeerShah41/_Leet_Code/tree/master/0977-squares-of-a-sorted-array) |
+| [1768-merge-strings-alternately](https://github.com/VeerShah41/_Leet_Code/tree/master/1768-merge-strings-alternately) |
 ## Linked List
 |  |
 | ------- |
