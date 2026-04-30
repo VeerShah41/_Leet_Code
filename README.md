@@ -281,6 +281,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0596-classes-with-at-least-5-students](https://github.com/VeerShah41/_Leet_Code/tree/master/0596-classes-with-at-least-5-students) |
 | [0627-swap-sex-of-employees](https://github.com/VeerShah41/_Leet_Code/tree/master/0627-swap-sex-of-employees) |
 | [1068-product-sales-analysis-i](https://github.com/VeerShah41/_Leet_Code/tree/master/1068-product-sales-analysis-i) |
+| [1693-daily-leads-and-partners](https://github.com/VeerShah41/_Leet_Code/tree/master/1693-daily-leads-and-partners) |
 | [1741-find-total-time-spent-by-each-employee](https://github.com/VeerShah41/_Leet_Code/tree/master/1741-find-total-time-spent-by-each-employee) |
 | [1757-recyclable-and-low-fat-products](https://github.com/VeerShah41/_Leet_Code/tree/master/1757-recyclable-and-low-fat-products) |
 | [2356-number-of-unique-subjects-taught-by-each-teacher](https://github.com/VeerShah41/_Leet_Code/tree/master/2356-number-of-unique-subjects-taught-by-each-teacher) |
