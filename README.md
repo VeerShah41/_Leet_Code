@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0342-power-of-four](https://github.com/VeerShah41/_Leet_Code/tree/master/0342-power-of-four) |
 | [0415-add-strings](https://github.com/VeerShah41/_Leet_Code/tree/master/0415-add-strings) |
 | [0509-fibonacci-number](https://github.com/VeerShah41/DSA_Algo/tree/master/0509-fibonacci-number) |
+| [1071-greatest-common-divisor-of-strings](https://github.com/VeerShah41/_Leet_Code/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1137-n-th-tribonacci-number](https://github.com/VeerShah41/DSA_Algo/tree/master/1137-n-th-tribonacci-number) |
 | [2469-convert-the-temperature](https://github.com/VeerShah41/_Leet_Code/tree/master/2469-convert-the-temperature) |
 | [2769-find-the-maximum-achievable-number](https://github.com/VeerShah41/_Leet_Code/tree/master/2769-find-the-maximum-achievable-number) |
@@ -170,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0516-longest-palindromic-subsequence](https://github.com/VeerShah41/_Leet_Code/tree/master/0516-longest-palindromic-subsequence) |
 | [0771-jewels-and-stones](https://github.com/VeerShah41/_Leet_Code/tree/master/0771-jewels-and-stones) |
 | [0796-rotate-string](https://github.com/VeerShah41/_Leet_Code/tree/master/0796-rotate-string) |
+| [1071-greatest-common-divisor-of-strings](https://github.com/VeerShah41/_Leet_Code/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1704-determine-if-string-halves-are-alike](https://github.com/VeerShah41/_Leet_Code/tree/master/1704-determine-if-string-halves-are-alike) |
 | [1768-merge-strings-alternately](https://github.com/VeerShah41/_Leet_Code/tree/master/1768-merge-strings-alternately) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/VeerShah41/_Leet_Code/tree/master/2011-final-value-of-variable-after-performing-operations) |
