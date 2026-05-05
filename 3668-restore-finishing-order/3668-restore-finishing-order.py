@@ -5,8 +5,9 @@ class Solution(object):
         :type friends: List[int]
         :rtype: List[int]
         """
-        l=[]
-        for i in order:
-            if i in friends:
-                l.append(i)
+        fset = set(friends)
+        l = [ ]
+        for i in range(len(order)):
+            if order[i] in fset :
+                l.append(order[i])
         return l
