@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1071-greatest-common-divisor-of-strings](https://github.com/VeerShah41/_Leet_Code/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1137-n-th-tribonacci-number](https://github.com/VeerShah41/DSA_Algo/tree/master/1137-n-th-tribonacci-number) |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/VeerShah41/_Leet_Code/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
+| [2413-smallest-even-multiple](https://github.com/VeerShah41/_Leet_Code/tree/master/2413-smallest-even-multiple) |
 | [2469-convert-the-temperature](https://github.com/VeerShah41/_Leet_Code/tree/master/2469-convert-the-temperature) |
 | [2520-count-the-digits-that-divide-a-number](https://github.com/VeerShah41/_Leet_Code/tree/master/2520-count-the-digits-that-divide-a-number) |
 | [2769-find-the-maximum-achievable-number](https://github.com/VeerShah41/_Leet_Code/tree/master/2769-find-the-maximum-achievable-number) |
@@ -363,6 +364,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0204-count-primes](https://github.com/VeerShah41/_Leet_Code/tree/master/0204-count-primes) |
 | [0258-add-digits](https://github.com/VeerShah41/_Leet_Code/tree/master/0258-add-digits) |
+| [2413-smallest-even-multiple](https://github.com/VeerShah41/_Leet_Code/tree/master/2413-smallest-even-multiple) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
