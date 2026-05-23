@@ -4,7 +4,7 @@ class Solution(object):
         :type nums: List[int]
         :rtype: List[int]
         """
-        z = len(nums)
-        for i in range(z-1,-1,-1):
+        
+        for i in range(len(nums)-1,-1,-1):
             nums.append(nums[i])
         return nums
