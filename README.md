@@ -133,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/VeerShah41/_Leet_Code/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 | [2540-minimum-common-value](https://github.com/VeerShah41/_Leet_Code/tree/master/2540-minimum-common-value) |
 | [2553-separate-the-digits-in-an-array](https://github.com/VeerShah41/_Leet_Code/tree/master/2553-separate-the-digits-in-an-array) |
+| [2942-find-words-containing-character](https://github.com/VeerShah41/_Leet_Code/tree/master/2942-find-words-containing-character) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/VeerShah41/_Leet_Code/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/VeerShah41/_Leet_Code/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
 | [3467-transform-array-by-parity](https://github.com/VeerShah41/_Leet_Code/tree/master/3467-transform-array-by-parity) |
@@ -199,6 +200,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1816-truncate-sentence](https://github.com/VeerShah41/_Leet_Code/tree/master/1816-truncate-sentence) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/VeerShah41/_Leet_Code/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2390-removing-stars-from-a-string](https://github.com/VeerShah41/_Leet_Code/tree/master/2390-removing-stars-from-a-string) |
+| [2942-find-words-containing-character](https://github.com/VeerShah41/_Leet_Code/tree/master/2942-find-words-containing-character) |
 | [3110-score-of-a-string](https://github.com/VeerShah41/_Leet_Code/tree/master/3110-score-of-a-string) |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/VeerShah41/_Leet_Code/tree/master/3541-find-most-frequent-vowel-and-consonant) |
 ## Two Pointers
