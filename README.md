@@ -120,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0867-transpose-matrix](https://github.com/VeerShah41/_Leet_Code/tree/master/0867-transpose-matrix) |
 | [0950-reveal-cards-in-increasing-order](https://github.com/VeerShah41/_Leet_Code/tree/master/0950-reveal-cards-in-increasing-order) |
 | [0977-squares-of-a-sorted-array](https://github.com/VeerShah41/_Leet_Code/tree/master/0977-squares-of-a-sorted-array) |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/VeerShah41/_Leet_Code/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/VeerShah41/_Leet_Code/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1470-shuffle-the-array](https://github.com/VeerShah41/_Leet_Code/tree/master/1470-shuffle-the-array) |
 | [1480-running-sum-of-1d-array](https://github.com/VeerShah41/_Leet_Code/tree/master/1480-running-sum-of-1d-array) |
@@ -168,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/VeerShah41/_Leet_Code/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/VeerShah41/_Leet_Code/tree/master/0268-missing-number) |
 | [0771-jewels-and-stones](https://github.com/VeerShah41/_Leet_Code/tree/master/0771-jewels-and-stones) |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/VeerShah41/_Leet_Code/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/VeerShah41/_Leet_Code/tree/master/1684-count-the-number-of-consistent-strings) |
 | [2540-minimum-common-value](https://github.com/VeerShah41/_Leet_Code/tree/master/2540-minimum-common-value) |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/VeerShah41/_Leet_Code/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
@@ -267,6 +269,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/VeerShah41/_Leet_Code/tree/master/0268-missing-number) |
 | [0950-reveal-cards-in-increasing-order](https://github.com/VeerShah41/_Leet_Code/tree/master/0950-reveal-cards-in-increasing-order) |
 | [0977-squares-of-a-sorted-array](https://github.com/VeerShah41/_Leet_Code/tree/master/0977-squares-of-a-sorted-array) |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/VeerShah41/_Leet_Code/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/VeerShah41/_Leet_Code/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 | [3467-transform-array-by-parity](https://github.com/VeerShah41/_Leet_Code/tree/master/3467-transform-array-by-parity) |
 ## Simulation
@@ -393,4 +396,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/VeerShah41/_Leet_Code/tree/master/0238-product-of-array-except-self) |
 | [1480-running-sum-of-1d-array](https://github.com/VeerShah41/_Leet_Code/tree/master/1480-running-sum-of-1d-array) |
 | [2574-left-and-right-sum-differences](https://github.com/VeerShah41/_Leet_Code/tree/master/2574-left-and-right-sum-differences) |
+## Counting Sort
+|  |
+| ------- |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/VeerShah41/_Leet_Code/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 <!---LeetCode Topics End-->
