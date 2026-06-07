@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/VeerShah41/_Leet_Code/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/VeerShah41/_Leet_Code/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
 | [3516-find-closest-person](https://github.com/VeerShah41/_Leet_Code/tree/master/3516-find-closest-person) |
+| [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/VeerShah41/_Leet_Code/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3783-mirror-distance-of-an-integer](https://github.com/VeerShah41/_Leet_Code/tree/master/3783-mirror-distance-of-an-integer) |
 ## Binary Search
 |  |
@@ -145,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/VeerShah41/_Leet_Code/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/VeerShah41/_Leet_Code/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
 | [3467-transform-array-by-parity](https://github.com/VeerShah41/_Leet_Code/tree/master/3467-transform-array-by-parity) |
+| [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/VeerShah41/_Leet_Code/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3668-restore-finishing-order](https://github.com/VeerShah41/_Leet_Code/tree/master/3668-restore-finishing-order) |
 | [3701-compute-alternating-sum](https://github.com/VeerShah41/_Leet_Code/tree/master/3701-compute-alternating-sum) |
 | [3925-concatenate-array-with-reverse](https://github.com/VeerShah41/_Leet_Code/tree/master/3925-concatenate-array-with-reverse) |
