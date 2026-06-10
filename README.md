@@ -221,6 +221,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/VeerShah41/_Leet_Code/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2390-removing-stars-from-a-string](https://github.com/VeerShah41/_Leet_Code/tree/master/2390-removing-stars-from-a-string) |
 | [2586-count-the-number-of-vowel-strings-in-range](https://github.com/VeerShah41/_Leet_Code/tree/master/2586-count-the-number-of-vowel-strings-in-range) |
+| [2810-faulty-keyboard](https://github.com/VeerShah41/_Leet_Code/tree/master/2810-faulty-keyboard) |
 | [2942-find-words-containing-character](https://github.com/VeerShah41/_Leet_Code/tree/master/2942-find-words-containing-character) |
 | [3110-score-of-a-string](https://github.com/VeerShah41/_Leet_Code/tree/master/3110-score-of-a-string) |
 | [3174-clear-digits](https://github.com/VeerShah41/_Leet_Code/tree/master/3174-clear-digits) |
@@ -309,6 +310,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/VeerShah41/_Leet_Code/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2390-removing-stars-from-a-string](https://github.com/VeerShah41/_Leet_Code/tree/master/2390-removing-stars-from-a-string) |
 | [2553-separate-the-digits-in-an-array](https://github.com/VeerShah41/_Leet_Code/tree/master/2553-separate-the-digits-in-an-array) |
+| [2810-faulty-keyboard](https://github.com/VeerShah41/_Leet_Code/tree/master/2810-faulty-keyboard) |
 | [3174-clear-digits](https://github.com/VeerShah41/_Leet_Code/tree/master/3174-clear-digits) |
 | [3461-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/VeerShah41/_Leet_Code/tree/master/3461-check-if-digits-are-equal-in-string-after-operations-i) |
 | [3498-reverse-degree-of-a-string](https://github.com/VeerShah41/_Leet_Code/tree/master/3498-reverse-degree-of-a-string) |
