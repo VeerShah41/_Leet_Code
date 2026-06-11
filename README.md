@@ -202,6 +202,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0038-count-and-say](https://github.com/VeerShah41/_Leet_Code/tree/master/0038-count-and-say) |
 | [0043-multiply-strings](https://github.com/VeerShah41/_Leet_Code/tree/master/0043-multiply-strings) |
 | [0067-add-binary](https://github.com/VeerShah41/DSA_Algo/tree/master/0067-add-binary) |
+| [0125-valid-palindrome](https://github.com/VeerShah41/_Leet_Code/tree/master/0125-valid-palindrome) |
 | [0168-excel-sheet-column-title](https://github.com/VeerShah41/_Leet_Code/tree/master/0168-excel-sheet-column-title) |
 | [0171-excel-sheet-column-number](https://github.com/VeerShah41/_Leet_Code/tree/master/0171-excel-sheet-column-number) |
 | [0227-basic-calculator-ii](https://github.com/VeerShah41/_Leet_Code/tree/master/0227-basic-calculator-ii) |
@@ -238,6 +239,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/VeerShah41/_Leet_Code/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0075-sort-colors](https://github.com/VeerShah41/_Leet_Code/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/VeerShah41/DSA_Algo/tree/master/0088-merge-sorted-array) |
+| [0125-valid-palindrome](https://github.com/VeerShah41/_Leet_Code/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/VeerShah41/DSA_Algo/tree/master/0141-linked-list-cycle) |
 | [0160-intersection-of-two-linked-lists](https://github.com/VeerShah41/_Leet_Code/tree/master/0160-intersection-of-two-linked-lists) |
 | [0189-rotate-array](https://github.com/VeerShah41/_Leet_Code/tree/master/0189-rotate-array) |
