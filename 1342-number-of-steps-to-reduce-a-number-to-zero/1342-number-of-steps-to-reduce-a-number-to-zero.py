@@ -8,8 +8,8 @@ class Solution(object):
         while num>0:
             if num%2==0:
                 num/=2
-                c+=1
+                
             else:
                 num-=1
-                c+=1
+            c+=1
         return c
