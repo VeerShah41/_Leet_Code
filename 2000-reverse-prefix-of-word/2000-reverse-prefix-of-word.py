@@ -5,17 +5,8 @@ class Solution(object):
         :type ch: str
         :rtype: str
         """
-        ans = ""
-        flag = False
-        if ch not in word:
-            return word
         for i in range(len(word)):
-            if flag:
-                ans += word[i]
-            else:
-                if word[i]==ch:
-                    ans = word[i]+ans
-                    flag= True
-                else:
-                    ans = word[i]+ans
-        return ans
+            if word[i]==ch:
+                word=word[i::-1]+word[i+1:]
+                break
+        return word
