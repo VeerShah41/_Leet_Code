@@ -73,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0227-basic-calculator-ii](https://github.com/VeerShah41/_Leet_Code/tree/master/0227-basic-calculator-ii) |
 | [0232-implement-queue-using-stacks](https://github.com/VeerShah41/DSA_Algo/tree/master/0232-implement-queue-using-stacks) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/VeerShah41/DSA_Algo/tree/master/1700-number-of-students-unable-to-eat-lunch) |
+| [2000-reverse-prefix-of-word](https://github.com/VeerShah41/_Leet_Code/tree/master/2000-reverse-prefix-of-word) |
 | [2390-removing-stars-from-a-string](https://github.com/VeerShah41/_Leet_Code/tree/master/2390-removing-stars-from-a-string) |
 | [3174-clear-digits](https://github.com/VeerShah41/_Leet_Code/tree/master/3174-clear-digits) |
 ## Tree
@@ -225,6 +226,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1768-merge-strings-alternately](https://github.com/VeerShah41/_Leet_Code/tree/master/1768-merge-strings-alternately) |
 | [1816-truncate-sentence](https://github.com/VeerShah41/_Leet_Code/tree/master/1816-truncate-sentence) |
 | [1859-sorting-the-sentence](https://github.com/VeerShah41/_Leet_Code/tree/master/1859-sorting-the-sentence) |
+| [2000-reverse-prefix-of-word](https://github.com/VeerShah41/_Leet_Code/tree/master/2000-reverse-prefix-of-word) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/VeerShah41/_Leet_Code/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2390-removing-stars-from-a-string](https://github.com/VeerShah41/_Leet_Code/tree/master/2390-removing-stars-from-a-string) |
 | [2586-count-the-number-of-vowel-strings-in-range](https://github.com/VeerShah41/_Leet_Code/tree/master/2586-count-the-number-of-vowel-strings-in-range) |
@@ -254,6 +256,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0392-is-subsequence](https://github.com/VeerShah41/_Leet_Code/tree/master/0392-is-subsequence) |
 | [0977-squares-of-a-sorted-array](https://github.com/VeerShah41/_Leet_Code/tree/master/0977-squares-of-a-sorted-array) |
 | [1768-merge-strings-alternately](https://github.com/VeerShah41/_Leet_Code/tree/master/1768-merge-strings-alternately) |
+| [2000-reverse-prefix-of-word](https://github.com/VeerShah41/_Leet_Code/tree/master/2000-reverse-prefix-of-word) |
 | [2540-minimum-common-value](https://github.com/VeerShah41/_Leet_Code/tree/master/2540-minimum-common-value) |
 ## Linked List
 |  |
