@@ -129,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/VeerShah41/_Leet_Code/tree/master/0238-product-of-array-except-self) |
 | [0268-missing-number](https://github.com/VeerShah41/_Leet_Code/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/VeerShah41/_Leet_Code/tree/master/0283-move-zeroes) |
+| [0819-most-common-word](https://github.com/VeerShah41/_Leet_Code/tree/master/0819-most-common-word) |
 | [0867-transpose-matrix](https://github.com/VeerShah41/_Leet_Code/tree/master/0867-transpose-matrix) |
 | [0950-reveal-cards-in-increasing-order](https://github.com/VeerShah41/_Leet_Code/tree/master/0950-reveal-cards-in-increasing-order) |
 | [0977-squares-of-a-sorted-array](https://github.com/VeerShah41/_Leet_Code/tree/master/0977-squares-of-a-sorted-array) |
@@ -189,6 +190,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/VeerShah41/_Leet_Code/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/VeerShah41/_Leet_Code/tree/master/0268-missing-number) |
 | [0771-jewels-and-stones](https://github.com/VeerShah41/_Leet_Code/tree/master/0771-jewels-and-stones) |
+| [0819-most-common-word](https://github.com/VeerShah41/_Leet_Code/tree/master/0819-most-common-word) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/VeerShah41/_Leet_Code/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/VeerShah41/_Leet_Code/tree/master/1684-count-the-number-of-consistent-strings) |
 | [2418-sort-the-people](https://github.com/VeerShah41/_Leet_Code/tree/master/2418-sort-the-people) |
@@ -222,6 +224,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0709-to-lower-case](https://github.com/VeerShah41/_Leet_Code/tree/master/0709-to-lower-case) |
 | [0771-jewels-and-stones](https://github.com/VeerShah41/_Leet_Code/tree/master/0771-jewels-and-stones) |
 | [0796-rotate-string](https://github.com/VeerShah41/_Leet_Code/tree/master/0796-rotate-string) |
+| [0819-most-common-word](https://github.com/VeerShah41/_Leet_Code/tree/master/0819-most-common-word) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/VeerShah41/_Leet_Code/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/VeerShah41/_Leet_Code/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1704-determine-if-string-halves-are-alike](https://github.com/VeerShah41/_Leet_Code/tree/master/1704-determine-if-string-halves-are-alike) |
@@ -389,6 +392,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/VeerShah41/DSA_Algo/tree/master/0169-majority-element) |
+| [0819-most-common-word](https://github.com/VeerShah41/_Leet_Code/tree/master/0819-most-common-word) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/VeerShah41/_Leet_Code/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1704-determine-if-string-halves-are-alike](https://github.com/VeerShah41/_Leet_Code/tree/master/1704-determine-if-string-halves-are-alike) |
 | [2586-count-the-number-of-vowel-strings-in-range](https://github.com/VeerShah41/_Leet_Code/tree/master/2586-count-the-number-of-vowel-strings-in-range) |
