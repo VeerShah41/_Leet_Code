@@ -117,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/VeerShah41/_Leet_Code/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/VeerShah41/DSA_Algo/tree/master/0088-merge-sorted-array) |
 | [0118-pascals-triangle](https://github.com/VeerShah41/_Leet_Code/tree/master/0118-pascals-triangle) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/VeerShah41/_Leet_Code/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0134-gas-station](https://github.com/VeerShah41/DSA_Algo/tree/master/0134-gas-station) |
 | [0136-single-number](https://github.com/VeerShah41/DSA_Algo/tree/master/0136-single-number) |
 | [0162-find-peak-element](https://github.com/VeerShah41/_Leet_Code/tree/master/0162-find-peak-element) |
@@ -345,6 +346,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0118-pascals-triangle](https://github.com/VeerShah41/_Leet_Code/tree/master/0118-pascals-triangle) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/VeerShah41/_Leet_Code/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0392-is-subsequence](https://github.com/VeerShah41/_Leet_Code/tree/master/0392-is-subsequence) |
 | [0509-fibonacci-number](https://github.com/VeerShah41/DSA_Algo/tree/master/0509-fibonacci-number) |
 | [0516-longest-palindromic-subsequence](https://github.com/VeerShah41/_Leet_Code/tree/master/0516-longest-palindromic-subsequence) |
