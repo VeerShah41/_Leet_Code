@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3516-find-closest-person](https://github.com/VeerShah41/_Leet_Code/tree/master/3516-find-closest-person) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/VeerShah41/_Leet_Code/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3783-mirror-distance-of-an-integer](https://github.com/VeerShah41/_Leet_Code/tree/master/3783-mirror-distance-of-an-integer) |
+| [3895-count-digit-appearances](https://github.com/VeerShah41/_Leet_Code/tree/master/3895-count-digit-appearances) |
 | [3945-digit-frequency-score](https://github.com/VeerShah41/_Leet_Code/tree/master/3945-digit-frequency-score) |
 ## Binary Search
 |  |
@@ -166,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/VeerShah41/_Leet_Code/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3668-restore-finishing-order](https://github.com/VeerShah41/_Leet_Code/tree/master/3668-restore-finishing-order) |
 | [3701-compute-alternating-sum](https://github.com/VeerShah41/_Leet_Code/tree/master/3701-compute-alternating-sum) |
+| [3895-count-digit-appearances](https://github.com/VeerShah41/_Leet_Code/tree/master/3895-count-digit-appearances) |
 | [3925-concatenate-array-with-reverse](https://github.com/VeerShah41/_Leet_Code/tree/master/3925-concatenate-array-with-reverse) |
 ## Bit Manipulation
 |  |
