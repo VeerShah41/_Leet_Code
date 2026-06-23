@@ -150,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1672-richest-customer-wealth](https://github.com/VeerShah41/_Leet_Code/tree/master/1672-richest-customer-wealth) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/VeerShah41/_Leet_Code/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/VeerShah41/DSA_Algo/tree/master/1700-number-of-students-unable-to-eat-lunch) |
+| [1748-sum-of-unique-elements](https://github.com/VeerShah41/_Leet_Code/tree/master/1748-sum-of-unique-elements) |
 | [1816-truncate-sentence](https://github.com/VeerShah41/_Leet_Code/tree/master/1816-truncate-sentence) |
 | [1833-maximum-ice-cream-bars](https://github.com/VeerShah41/_Leet_Code/tree/master/1833-maximum-ice-cream-bars) |
 | [1920-build-array-from-permutation](https://github.com/VeerShah41/_Leet_Code/tree/master/1920-build-array-from-permutation) |
@@ -206,6 +207,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0819-most-common-word](https://github.com/VeerShah41/_Leet_Code/tree/master/0819-most-common-word) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/VeerShah41/_Leet_Code/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/VeerShah41/_Leet_Code/tree/master/1684-count-the-number-of-consistent-strings) |
+| [1748-sum-of-unique-elements](https://github.com/VeerShah41/_Leet_Code/tree/master/1748-sum-of-unique-elements) |
 | [2418-sort-the-people](https://github.com/VeerShah41/_Leet_Code/tree/master/2418-sort-the-people) |
 | [2540-minimum-common-value](https://github.com/VeerShah41/_Leet_Code/tree/master/2540-minimum-common-value) |
 | [3146-permutation-difference-between-two-strings](https://github.com/VeerShah41/_Leet_Code/tree/master/3146-permutation-difference-between-two-strings) |
@@ -418,6 +420,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0819-most-common-word](https://github.com/VeerShah41/_Leet_Code/tree/master/0819-most-common-word) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/VeerShah41/_Leet_Code/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1704-determine-if-string-halves-are-alike](https://github.com/VeerShah41/_Leet_Code/tree/master/1704-determine-if-string-halves-are-alike) |
+| [1748-sum-of-unique-elements](https://github.com/VeerShah41/_Leet_Code/tree/master/1748-sum-of-unique-elements) |
 | [2586-count-the-number-of-vowel-strings-in-range](https://github.com/VeerShah41/_Leet_Code/tree/master/2586-count-the-number-of-vowel-strings-in-range) |
 | [3467-transform-array-by-parity](https://github.com/VeerShah41/_Leet_Code/tree/master/3467-transform-array-by-parity) |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/VeerShah41/_Leet_Code/tree/master/3541-find-most-frequent-vowel-and-consonant) |
