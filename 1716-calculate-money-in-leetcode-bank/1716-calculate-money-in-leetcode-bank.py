@@ -4,14 +4,13 @@ class Solution(object):
         :type n: int
         :rtype: int
         """
-        a = 1
-        ans = 0
-        while n>0:
-            
-            for i in range(min(7,n)):
-                ans += (a+i)
-            a+=1
-            n-=7
-        return ans
+        w = n // 7
+        d = n % 7
+
+        f = w * 28 + 7 * (w * (w - 1) // 2)
+        r = d * (w + 1) + d * (d - 1) // 2
+
+        return f + r
+     
 
 
