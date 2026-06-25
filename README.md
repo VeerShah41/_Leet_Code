@@ -213,6 +213,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1512-number-of-good-pairs](https://github.com/VeerShah41/_Leet_Code/tree/master/1512-number-of-good-pairs) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/VeerShah41/_Leet_Code/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1748-sum-of-unique-elements](https://github.com/VeerShah41/_Leet_Code/tree/master/1748-sum-of-unique-elements) |
+| [1935-maximum-number-of-words-you-can-type](https://github.com/VeerShah41/_Leet_Code/tree/master/1935-maximum-number-of-words-you-can-type) |
 | [2150-find-all-lonely-numbers-in-the-array](https://github.com/VeerShah41/_Leet_Code/tree/master/2150-find-all-lonely-numbers-in-the-array) |
 | [2418-sort-the-people](https://github.com/VeerShah41/_Leet_Code/tree/master/2418-sort-the-people) |
 | [2540-minimum-common-value](https://github.com/VeerShah41/_Leet_Code/tree/master/2540-minimum-common-value) |
@@ -255,6 +256,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1816-truncate-sentence](https://github.com/VeerShah41/_Leet_Code/tree/master/1816-truncate-sentence) |
 | [1844-replace-all-digits-with-characters](https://github.com/VeerShah41/_Leet_Code/tree/master/1844-replace-all-digits-with-characters) |
 | [1859-sorting-the-sentence](https://github.com/VeerShah41/_Leet_Code/tree/master/1859-sorting-the-sentence) |
+| [1935-maximum-number-of-words-you-can-type](https://github.com/VeerShah41/_Leet_Code/tree/master/1935-maximum-number-of-words-you-can-type) |
 | [2000-reverse-prefix-of-word](https://github.com/VeerShah41/_Leet_Code/tree/master/2000-reverse-prefix-of-word) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/VeerShah41/_Leet_Code/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/VeerShah41/_Leet_Code/tree/master/2114-maximum-number-of-words-found-in-sentences) |
