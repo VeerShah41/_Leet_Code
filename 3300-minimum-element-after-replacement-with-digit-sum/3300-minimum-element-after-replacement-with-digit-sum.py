@@ -4,11 +4,13 @@ class Solution(object):
         :type nums: List[int]
         :rtype: int
         """
-        res = []
+        res = float("inf")
         for i in nums:
             temp = 0
             while i>0:
                 temp+=(i%10)
                 i=i//10
-            res.append(temp)
-        return min(res)
+            if temp<res:
+                res = temp
+            
+        return res
