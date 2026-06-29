@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2769-find-the-maximum-achievable-number](https://github.com/VeerShah41/_Leet_Code/tree/master/2769-find-the-maximum-achievable-number) |
 | [2894-divisible-and-non-divisible-sums-difference](https://github.com/VeerShah41/_Leet_Code/tree/master/2894-divisible-and-non-divisible-sums-difference) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/VeerShah41/_Leet_Code/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
+| [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/VeerShah41/_Leet_Code/tree/master/3264-final-array-state-after-k-multiplication-operations-i) |
 | [3280-convert-date-to-binary](https://github.com/VeerShah41/_Leet_Code/tree/master/3280-convert-date-to-binary) |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/VeerShah41/_Leet_Code/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/VeerShah41/_Leet_Code/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
@@ -175,6 +176,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2942-find-words-containing-character](https://github.com/VeerShah41/_Leet_Code/tree/master/2942-find-words-containing-character) |
 | [2974-minimum-number-game](https://github.com/VeerShah41/_Leet_Code/tree/master/2974-minimum-number-game) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/VeerShah41/_Leet_Code/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
+| [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/VeerShah41/_Leet_Code/tree/master/3264-final-array-state-after-k-multiplication-operations-i) |
 | [3285-find-indices-of-stable-mountains](https://github.com/VeerShah41/_Leet_Code/tree/master/3285-find-indices-of-stable-mountains) |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/VeerShah41/_Leet_Code/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/VeerShah41/_Leet_Code/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
@@ -374,6 +376,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2810-faulty-keyboard](https://github.com/VeerShah41/_Leet_Code/tree/master/2810-faulty-keyboard) |
 | [2974-minimum-number-game](https://github.com/VeerShah41/_Leet_Code/tree/master/2974-minimum-number-game) |
 | [3174-clear-digits](https://github.com/VeerShah41/_Leet_Code/tree/master/3174-clear-digits) |
+| [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/VeerShah41/_Leet_Code/tree/master/3264-final-array-state-after-k-multiplication-operations-i) |
 | [3461-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/VeerShah41/_Leet_Code/tree/master/3461-check-if-digits-are-equal-in-string-after-operations-i) |
 | [3498-reverse-degree-of-a-string](https://github.com/VeerShah41/_Leet_Code/tree/master/3498-reverse-degree-of-a-string) |
 | [3701-compute-alternating-sum](https://github.com/VeerShah41/_Leet_Code/tree/master/3701-compute-alternating-sum) |
@@ -491,6 +494,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/VeerShah41/_Leet_Code/tree/master/0215-kth-largest-element-in-an-array) |
 | [2974-minimum-number-game](https://github.com/VeerShah41/_Leet_Code/tree/master/2974-minimum-number-game) |
+| [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/VeerShah41/_Leet_Code/tree/master/3264-final-array-state-after-k-multiplication-operations-i) |
 ## Quickselect
 |  |
 | ------- |
