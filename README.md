@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/VeerShah41/_Leet_Code/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
 | [2469-convert-the-temperature](https://github.com/VeerShah41/_Leet_Code/tree/master/2469-convert-the-temperature) |
 | [2520-count-the-digits-that-divide-a-number](https://github.com/VeerShah41/_Leet_Code/tree/master/2520-count-the-digits-that-divide-a-number) |
+| [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/VeerShah41/_Leet_Code/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2769-find-the-maximum-achievable-number](https://github.com/VeerShah41/_Leet_Code/tree/master/2769-find-the-maximum-achievable-number) |
 | [2894-divisible-and-non-divisible-sums-difference](https://github.com/VeerShah41/_Leet_Code/tree/master/2894-divisible-and-non-divisible-sums-difference) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/VeerShah41/_Leet_Code/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
@@ -171,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2150-find-all-lonely-numbers-in-the-array](https://github.com/VeerShah41/_Leet_Code/tree/master/2150-find-all-lonely-numbers-in-the-array) |
 | [2418-sort-the-people](https://github.com/VeerShah41/_Leet_Code/tree/master/2418-sort-the-people) |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/VeerShah41/_Leet_Code/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
+| [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/VeerShah41/_Leet_Code/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2540-minimum-common-value](https://github.com/VeerShah41/_Leet_Code/tree/master/2540-minimum-common-value) |
 | [2553-separate-the-digits-in-an-array](https://github.com/VeerShah41/_Leet_Code/tree/master/2553-separate-the-digits-in-an-array) |
 | [2574-left-and-right-sum-differences](https://github.com/VeerShah41/_Leet_Code/tree/master/2574-left-and-right-sum-differences) |
