@@ -170,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/VeerShah41/_Leet_Code/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/VeerShah41/_Leet_Code/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2150-find-all-lonely-numbers-in-the-array](https://github.com/VeerShah41/_Leet_Code/tree/master/2150-find-all-lonely-numbers-in-the-array) |
+| [2154-keep-multiplying-found-values-by-two](https://github.com/VeerShah41/_Leet_Code/tree/master/2154-keep-multiplying-found-values-by-two) |
 | [2418-sort-the-people](https://github.com/VeerShah41/_Leet_Code/tree/master/2418-sort-the-people) |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/VeerShah41/_Leet_Code/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/VeerShah41/_Leet_Code/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
@@ -228,6 +229,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1748-sum-of-unique-elements](https://github.com/VeerShah41/_Leet_Code/tree/master/1748-sum-of-unique-elements) |
 | [1935-maximum-number-of-words-you-can-type](https://github.com/VeerShah41/_Leet_Code/tree/master/1935-maximum-number-of-words-you-can-type) |
 | [2150-find-all-lonely-numbers-in-the-array](https://github.com/VeerShah41/_Leet_Code/tree/master/2150-find-all-lonely-numbers-in-the-array) |
+| [2154-keep-multiplying-found-values-by-two](https://github.com/VeerShah41/_Leet_Code/tree/master/2154-keep-multiplying-found-values-by-two) |
 | [2418-sort-the-people](https://github.com/VeerShah41/_Leet_Code/tree/master/2418-sort-the-people) |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/VeerShah41/_Leet_Code/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
 | [2540-minimum-common-value](https://github.com/VeerShah41/_Leet_Code/tree/master/2540-minimum-common-value) |
@@ -360,6 +362,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1833-maximum-ice-cream-bars](https://github.com/VeerShah41/_Leet_Code/tree/master/1833-maximum-ice-cream-bars) |
 | [1859-sorting-the-sentence](https://github.com/VeerShah41/_Leet_Code/tree/master/1859-sorting-the-sentence) |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/VeerShah41/_Leet_Code/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
+| [2154-keep-multiplying-found-values-by-two](https://github.com/VeerShah41/_Leet_Code/tree/master/2154-keep-multiplying-found-values-by-two) |
 | [2418-sort-the-people](https://github.com/VeerShah41/_Leet_Code/tree/master/2418-sort-the-people) |
 | [2974-minimum-number-game](https://github.com/VeerShah41/_Leet_Code/tree/master/2974-minimum-number-game) |
 | [3467-transform-array-by-parity](https://github.com/VeerShah41/_Leet_Code/tree/master/3467-transform-array-by-parity) |
@@ -377,6 +380,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1920-build-array-from-permutation](https://github.com/VeerShah41/_Leet_Code/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/VeerShah41/_Leet_Code/tree/master/1929-concatenation-of-array) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/VeerShah41/_Leet_Code/tree/master/2011-final-value-of-variable-after-performing-operations) |
+| [2154-keep-multiplying-found-values-by-two](https://github.com/VeerShah41/_Leet_Code/tree/master/2154-keep-multiplying-found-values-by-two) |
 | [2390-removing-stars-from-a-string](https://github.com/VeerShah41/_Leet_Code/tree/master/2390-removing-stars-from-a-string) |
 | [2553-separate-the-digits-in-an-array](https://github.com/VeerShah41/_Leet_Code/tree/master/2553-separate-the-digits-in-an-array) |
 | [2810-faulty-keyboard](https://github.com/VeerShah41/_Leet_Code/tree/master/2810-faulty-keyboard) |
