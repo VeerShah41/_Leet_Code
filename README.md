@@ -272,6 +272,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0819-most-common-word](https://github.com/VeerShah41/_Leet_Code/tree/master/0819-most-common-word) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/VeerShah41/_Leet_Code/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1108-defanging-an-ip-address](https://github.com/VeerShah41/_Leet_Code/tree/master/1108-defanging-an-ip-address) |
+| [1678-goal-parser-interpretation](https://github.com/VeerShah41/_Leet_Code/tree/master/1678-goal-parser-interpretation) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/VeerShah41/_Leet_Code/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1704-determine-if-string-halves-are-alike](https://github.com/VeerShah41/_Leet_Code/tree/master/1704-determine-if-string-halves-are-alike) |
 | [1768-merge-strings-alternately](https://github.com/VeerShah41/_Leet_Code/tree/master/1768-merge-strings-alternately) |
