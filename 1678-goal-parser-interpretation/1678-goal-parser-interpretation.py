@@ -10,7 +10,7 @@ class Solution(object):
             if command[i]=="G":
                 ans+=command[i]
                 i+=1
-            elif i+1<len(command) and command[i]+command[i+1]=="()":
+            elif command[i]+command[i+1]=="()":
                 ans+="o"
                 i+=2
             elif command[i:i+4]=="(al)":
