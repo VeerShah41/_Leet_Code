@@ -10,9 +10,9 @@ class Solution(object):
         c = 0
         for i in s:
             
-            if i in l:
+            if i=='a' or i=='e'or i=='i'or i=='o'or i=='u':
                 v+=1
-            elif i in n:
+            elif i==" " or i=="1"or i=="2"or i=="3"or i=="4"or i=="5"or i=="6"or i=="7"or i=="8"or i=="9"or i=="0":
                 continue
             else:
                 c+=1
