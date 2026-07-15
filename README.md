@@ -186,6 +186,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2553-separate-the-digits-in-an-array](https://github.com/VeerShah41/_Leet_Code/tree/master/2553-separate-the-digits-in-an-array) |
 | [2574-left-and-right-sum-differences](https://github.com/VeerShah41/_Leet_Code/tree/master/2574-left-and-right-sum-differences) |
 | [2586-count-the-number-of-vowel-strings-in-range](https://github.com/VeerShah41/_Leet_Code/tree/master/2586-count-the-number-of-vowel-strings-in-range) |
+| [2605-form-smallest-number-from-two-digit-arrays](https://github.com/VeerShah41/_Leet_Code/tree/master/2605-form-smallest-number-from-two-digit-arrays) |
 | [2942-find-words-containing-character](https://github.com/VeerShah41/_Leet_Code/tree/master/2942-find-words-containing-character) |
 | [2974-minimum-number-game](https://github.com/VeerShah41/_Leet_Code/tree/master/2974-minimum-number-game) |
 | [3079-find-the-sum-of-encrypted-integers](https://github.com/VeerShah41/_Leet_Code/tree/master/3079-find-the-sum-of-encrypted-integers) |
@@ -245,6 +246,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2418-sort-the-people](https://github.com/VeerShah41/_Leet_Code/tree/master/2418-sort-the-people) |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/VeerShah41/_Leet_Code/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
 | [2540-minimum-common-value](https://github.com/VeerShah41/_Leet_Code/tree/master/2540-minimum-common-value) |
+| [2605-form-smallest-number-from-two-digit-arrays](https://github.com/VeerShah41/_Leet_Code/tree/master/2605-form-smallest-number-from-two-digit-arrays) |
 | [3146-permutation-difference-between-two-strings](https://github.com/VeerShah41/_Leet_Code/tree/master/3146-permutation-difference-between-two-strings) |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/VeerShah41/_Leet_Code/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/VeerShah41/_Leet_Code/tree/master/3541-find-most-frequent-vowel-and-consonant) |
@@ -518,6 +520,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0204-count-primes](https://github.com/VeerShah41/_Leet_Code/tree/master/0204-count-primes) |
 | [2427-number-of-common-factors](https://github.com/VeerShah41/_Leet_Code/tree/master/2427-number-of-common-factors) |
+| [2605-form-smallest-number-from-two-digit-arrays](https://github.com/VeerShah41/_Leet_Code/tree/master/2605-form-smallest-number-from-two-digit-arrays) |
 ## Number Theory
 |  |
 | ------- |
