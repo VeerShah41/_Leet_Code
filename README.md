@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/VeerShah41/_Leet_Code/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3516-find-closest-person](https://github.com/VeerShah41/_Leet_Code/tree/master/3516-find-closest-person) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/VeerShah41/_Leet_Code/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/VeerShah41/_Leet_Code/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/VeerShah41/_Leet_Code/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 | [3783-mirror-distance-of-an-integer](https://github.com/VeerShah41/_Leet_Code/tree/master/3783-mirror-distance-of-an-integer) |
 | [3894-traffic-signal-color](https://github.com/VeerShah41/_Leet_Code/tree/master/3894-traffic-signal-color) |
@@ -529,6 +530,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2413-smallest-even-multiple](https://github.com/VeerShah41/_Leet_Code/tree/master/2413-smallest-even-multiple) |
 | [2427-number-of-common-factors](https://github.com/VeerShah41/_Leet_Code/tree/master/2427-number-of-common-factors) |
 | [3461-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/VeerShah41/_Leet_Code/tree/master/3461-check-if-digits-are-equal-in-string-after-operations-i) |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/VeerShah41/_Leet_Code/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
