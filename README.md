@@ -102,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0144-binary-tree-preorder-traversal](https://github.com/VeerShah41/DSA_Algo/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/VeerShah41/DSA_Algo/tree/master/0145-binary-tree-postorder-traversal) |
 | [0222-count-complete-tree-nodes](https://github.com/VeerShah41/DSA_Algo/tree/master/0222-count-complete-tree-nodes) |
+| [1038-binary-search-tree-to-greater-sum-tree](https://github.com/VeerShah41/_Leet_Code/tree/master/1038-binary-search-tree-to-greater-sum-tree) |
 | [2236-root-equals-sum-of-children](https://github.com/VeerShah41/_Leet_Code/tree/master/2236-root-equals-sum-of-children) |
 ## Depth-First Search
 |  |
@@ -110,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0104-maximum-depth-of-binary-tree](https://github.com/VeerShah41/_Leet_Code/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/VeerShah41/DSA_Algo/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/VeerShah41/DSA_Algo/tree/master/0145-binary-tree-postorder-traversal) |
+| [1038-binary-search-tree-to-greater-sum-tree](https://github.com/VeerShah41/_Leet_Code/tree/master/1038-binary-search-tree-to-greater-sum-tree) |
 ## Binary Tree
 |  |
 | ------- |
@@ -119,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0144-binary-tree-preorder-traversal](https://github.com/VeerShah41/DSA_Algo/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/VeerShah41/DSA_Algo/tree/master/0145-binary-tree-postorder-traversal) |
 | [0222-count-complete-tree-nodes](https://github.com/VeerShah41/DSA_Algo/tree/master/0222-count-complete-tree-nodes) |
+| [1038-binary-search-tree-to-greater-sum-tree](https://github.com/VeerShah41/_Leet_Code/tree/master/1038-binary-search-tree-to-greater-sum-tree) |
 | [2236-root-equals-sum-of-children](https://github.com/VeerShah41/_Leet_Code/tree/master/2236-root-equals-sum-of-children) |
 ## Array
 |  |
@@ -567,4 +570,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/VeerShah41/_Leet_Code/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [1038-binary-search-tree-to-greater-sum-tree](https://github.com/VeerShah41/_Leet_Code/tree/master/1038-binary-search-tree-to-greater-sum-tree) |
 <!---LeetCode Topics End-->
