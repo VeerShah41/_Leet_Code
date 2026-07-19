@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1512-number-of-good-pairs](https://github.com/VeerShah41/_Leet_Code/tree/master/1512-number-of-good-pairs) |
 | [1688-count-of-matches-in-tournament](https://github.com/VeerShah41/_Leet_Code/tree/master/1688-count-of-matches-in-tournament) |
 | [1716-calculate-money-in-leetcode-bank](https://github.com/VeerShah41/_Leet_Code/tree/master/1716-calculate-money-in-leetcode-bank) |
+| [1837-sum-of-digits-in-base-k](https://github.com/VeerShah41/_Leet_Code/tree/master/1837-sum-of-digits-in-base-k) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/VeerShah41/_Leet_Code/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/VeerShah41/_Leet_Code/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 | [2119-a-number-after-a-double-reversal](https://github.com/VeerShah41/_Leet_Code/tree/master/2119-a-number-after-a-double-reversal) |
