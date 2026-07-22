@@ -4,9 +4,5 @@ class Solution(object):
         :type sentence: str
         :rtype: bool
         """
-        d = {}
-        for i in sentence:
-
-            if i not in d:
-                d[i]=1
-        return len(d)==26
+        
+        return len(set(sentence))==26
