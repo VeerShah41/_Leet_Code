@@ -325,6 +325,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3813-vowel-consonant-score](https://github.com/VeerShah41/_Leet_Code/tree/master/3813-vowel-consonant-score) |
 | [3838-weighted-word-mapping](https://github.com/VeerShah41/_Leet_Code/tree/master/3838-weighted-word-mapping) |
 | [3894-traffic-signal-color](https://github.com/VeerShah41/_Leet_Code/tree/master/3894-traffic-signal-color) |
+| [3931-check-adjacent-digit-differences](https://github.com/VeerShah41/_Leet_Code/tree/master/3931-check-adjacent-digit-differences) |
 ## Two Pointers
 |  |
 | ------- |
