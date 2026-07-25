@@ -4,15 +4,5 @@ class Solution(object):
         :type n: int
         :rtype: int
         """
-        one = float("-inf")
-        sec = float("-inf")
-        while n > 0:
-            x = n%10
-            if one<x:
-                sec = one
-                one=x
-            elif sec<x:
-                sec=x
-            
-            n//=10
-        return one*sec
+        m = sorted(str(n))
+        return int(m[-1])*int(m[-2])
