@@ -4,11 +4,11 @@ class Solution(object):
         :type nums: List[int]
         :rtype: int
         """
-        mn = min(nums)
-        mx = max(nums)
+        mi = min(nums)
+        ma = max(nums)
 
-        ans = 0
-        for num in nums:
-            if mn < num < mx:
-                ans += 1
-        return ans
+        c = 0
+        for i in nums:
+            if mi < i < ma:
+                c += 1
+        return c
