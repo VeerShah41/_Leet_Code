@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2119-a-number-after-a-double-reversal](https://github.com/VeerShah41/_Leet_Code/tree/master/2119-a-number-after-a-double-reversal) |
 | [2177-find-three-consecutive-integers-that-sum-to-a-given-number](https://github.com/VeerShah41/_Leet_Code/tree/master/2177-find-three-consecutive-integers-that-sum-to-a-given-number) |
 | [2235-add-two-integers](https://github.com/VeerShah41/_Leet_Code/tree/master/2235-add-two-integers) |
+| [2396-strictly-palindromic-number](https://github.com/VeerShah41/_Leet_Code/tree/master/2396-strictly-palindromic-number) |
 | [2413-smallest-even-multiple](https://github.com/VeerShah41/_Leet_Code/tree/master/2413-smallest-even-multiple) |
 | [2427-number-of-common-factors](https://github.com/VeerShah41/_Leet_Code/tree/master/2427-number-of-common-factors) |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/VeerShah41/_Leet_Code/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
@@ -358,6 +359,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0977-squares-of-a-sorted-array](https://github.com/VeerShah41/_Leet_Code/tree/master/0977-squares-of-a-sorted-array) |
 | [1768-merge-strings-alternately](https://github.com/VeerShah41/_Leet_Code/tree/master/1768-merge-strings-alternately) |
 | [2000-reverse-prefix-of-word](https://github.com/VeerShah41/_Leet_Code/tree/master/2000-reverse-prefix-of-word) |
+| [2396-strictly-palindromic-number](https://github.com/VeerShah41/_Leet_Code/tree/master/2396-strictly-palindromic-number) |
 | [2540-minimum-common-value](https://github.com/VeerShah41/_Leet_Code/tree/master/2540-minimum-common-value) |
 | [2903-find-indices-with-index-and-value-difference-i](https://github.com/VeerShah41/_Leet_Code/tree/master/2903-find-indices-with-index-and-value-difference-i) |
 | [3794-reverse-string-prefix](https://github.com/VeerShah41/_Leet_Code/tree/master/3794-reverse-string-prefix) |
@@ -601,4 +603,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/VeerShah41/_Leet_Code/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [1038-binary-search-tree-to-greater-sum-tree](https://github.com/VeerShah41/_Leet_Code/tree/master/1038-binary-search-tree-to-greater-sum-tree) |
+## Brainteaser
+|  |
+| ------- |
+| [2396-strictly-palindromic-number](https://github.com/VeerShah41/_Leet_Code/tree/master/2396-strictly-palindromic-number) |
 <!---LeetCode Topics End-->
