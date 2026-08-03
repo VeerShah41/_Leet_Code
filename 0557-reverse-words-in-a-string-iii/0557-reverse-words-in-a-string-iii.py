@@ -4,5 +4,9 @@ class Solution(object):
         :type s: str
         :rtype: str
         """
-        return " ".join(word[::-1] for word in s.split())
+        s = s.split(" ")
+        ans = []
+        for i in s:
+            ans.append(i[::-1])
+        return " ".join(ans)
         
