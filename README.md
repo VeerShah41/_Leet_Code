@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0342-power-of-four](https://github.com/VeerShah41/_Leet_Code/tree/master/0342-power-of-four) |
 | [0415-add-strings](https://github.com/VeerShah41/_Leet_Code/tree/master/0415-add-strings) |
 | [0509-fibonacci-number](https://github.com/VeerShah41/DSA_Algo/tree/master/0509-fibonacci-number) |
+| [0877-stone-game](https://github.com/VeerShah41/_Leet_Code/tree/master/0877-stone-game) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/VeerShah41/_Leet_Code/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1137-n-th-tribonacci-number](https://github.com/VeerShah41/DSA_Algo/tree/master/1137-n-th-tribonacci-number) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/VeerShah41/_Leet_Code/tree/master/1295-find-numbers-with-even-number-of-digits) |
@@ -165,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/VeerShah41/_Leet_Code/tree/master/0283-move-zeroes) |
 | [0819-most-common-word](https://github.com/VeerShah41/_Leet_Code/tree/master/0819-most-common-word) |
 | [0867-transpose-matrix](https://github.com/VeerShah41/_Leet_Code/tree/master/0867-transpose-matrix) |
+| [0877-stone-game](https://github.com/VeerShah41/_Leet_Code/tree/master/0877-stone-game) |
 | [0950-reveal-cards-in-increasing-order](https://github.com/VeerShah41/_Leet_Code/tree/master/0950-reveal-cards-in-increasing-order) |
 | [0977-squares-of-a-sorted-array](https://github.com/VeerShah41/_Leet_Code/tree/master/0977-squares-of-a-sorted-array) |
 | [1051-height-checker](https://github.com/VeerShah41/_Leet_Code/tree/master/1051-height-checker) |
@@ -465,6 +467,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0392-is-subsequence](https://github.com/VeerShah41/_Leet_Code/tree/master/0392-is-subsequence) |
 | [0509-fibonacci-number](https://github.com/VeerShah41/DSA_Algo/tree/master/0509-fibonacci-number) |
 | [0516-longest-palindromic-subsequence](https://github.com/VeerShah41/_Leet_Code/tree/master/0516-longest-palindromic-subsequence) |
+| [0877-stone-game](https://github.com/VeerShah41/_Leet_Code/tree/master/0877-stone-game) |
 | [1137-n-th-tribonacci-number](https://github.com/VeerShah41/DSA_Algo/tree/master/1137-n-th-tribonacci-number) |
 ## Memoization
 |  |
@@ -616,4 +619,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2396-strictly-palindromic-number](https://github.com/VeerShah41/_Leet_Code/tree/master/2396-strictly-palindromic-number) |
+## Minimax
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/VeerShah41/_Leet_Code/tree/master/0877-stone-game) |
+## Game Theory
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/VeerShah41/_Leet_Code/tree/master/0877-stone-game) |
+## Zero-Sum Game
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/VeerShah41/_Leet_Code/tree/master/0877-stone-game) |
 <!---LeetCode Topics End-->
