@@ -226,6 +226,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/VeerShah41/_Leet_Code/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3668-restore-finishing-order](https://github.com/VeerShah41/_Leet_Code/tree/master/3668-restore-finishing-order) |
 | [3701-compute-alternating-sum](https://github.com/VeerShah41/_Leet_Code/tree/master/3701-compute-alternating-sum) |
+| [3731-find-missing-elements](https://github.com/VeerShah41/_Leet_Code/tree/master/3731-find-missing-elements) |
 | [3838-weighted-word-mapping](https://github.com/VeerShah41/_Leet_Code/tree/master/3838-weighted-word-mapping) |
 | [3895-count-digit-appearances](https://github.com/VeerShah41/_Leet_Code/tree/master/3895-count-digit-appearances) |
 | [3925-concatenate-array-with-reverse](https://github.com/VeerShah41/_Leet_Code/tree/master/3925-concatenate-array-with-reverse) |
@@ -280,6 +281,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3442-maximum-difference-between-even-and-odd-frequency-i](https://github.com/VeerShah41/_Leet_Code/tree/master/3442-maximum-difference-between-even-and-odd-frequency-i) |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/VeerShah41/_Leet_Code/tree/master/3541-find-most-frequent-vowel-and-consonant) |
 | [3668-restore-finishing-order](https://github.com/VeerShah41/_Leet_Code/tree/master/3668-restore-finishing-order) |
+| [3731-find-missing-elements](https://github.com/VeerShah41/_Leet_Code/tree/master/3731-find-missing-elements) |
 | [3945-digit-frequency-score](https://github.com/VeerShah41/_Leet_Code/tree/master/3945-digit-frequency-score) |
 ## String
 |  |
@@ -429,6 +431,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2974-minimum-number-game](https://github.com/VeerShah41/_Leet_Code/tree/master/2974-minimum-number-game) |
 | [3467-transform-array-by-parity](https://github.com/VeerShah41/_Leet_Code/tree/master/3467-transform-array-by-parity) |
 | [3536-maximum-product-of-two-digits](https://github.com/VeerShah41/_Leet_Code/tree/master/3536-maximum-product-of-two-digits) |
+| [3731-find-missing-elements](https://github.com/VeerShah41/_Leet_Code/tree/master/3731-find-missing-elements) |
 ## Simulation
 |  |
 | ------- |
