@@ -7,7 +7,7 @@ class Solution(object):
         ma = max(nums)
         mi = min(nums)
         ans = []
-        for i in range(mi,ma+1):
+        for i in range(mi,ma):
             if i not in nums:
                 ans.append(i)
 
