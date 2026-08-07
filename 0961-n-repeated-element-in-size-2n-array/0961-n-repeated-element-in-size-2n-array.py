@@ -4,14 +4,9 @@ class Solution(object):
         :type nums: List[int]
         :rtype: int
         """
-        n= len(nums)//2
-        freq = {}
+        s = set()
         for i in nums:
-            if i in freq:
-                freq[i]+=1
+            if i not in s:
+                s.add(i)
             else:
-                freq[i]=1
-        for i,j in freq.items():
-            if j==n:
                 return i
-        
