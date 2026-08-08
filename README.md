@@ -166,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/VeerShah41/_Leet_Code/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/VeerShah41/_Leet_Code/tree/master/0283-move-zeroes) |
 | [0819-most-common-word](https://github.com/VeerShah41/_Leet_Code/tree/master/0819-most-common-word) |
+| [0860-lemonade-change](https://github.com/VeerShah41/_Leet_Code/tree/master/0860-lemonade-change) |
 | [0867-transpose-matrix](https://github.com/VeerShah41/_Leet_Code/tree/master/0867-transpose-matrix) |
 | [0877-stone-game](https://github.com/VeerShah41/_Leet_Code/tree/master/0877-stone-game) |
 | [0950-reveal-cards-in-increasing-order](https://github.com/VeerShah41/_Leet_Code/tree/master/0950-reveal-cards-in-increasing-order) |
@@ -543,6 +544,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/VeerShah41/_Leet_Code/tree/master/0011-container-with-most-water) |
 | [0134-gas-station](https://github.com/VeerShah41/DSA_Algo/tree/master/0134-gas-station) |
+| [0860-lemonade-change](https://github.com/VeerShah41/_Leet_Code/tree/master/0860-lemonade-change) |
 | [1827-minimum-operations-to-make-the-array-increasing](https://github.com/VeerShah41/_Leet_Code/tree/master/1827-minimum-operations-to-make-the-array-increasing) |
 | [1833-maximum-ice-cream-bars](https://github.com/VeerShah41/_Leet_Code/tree/master/1833-maximum-ice-cream-bars) |
 ## Sliding Window
