@@ -169,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0860-lemonade-change](https://github.com/VeerShah41/_Leet_Code/tree/master/0860-lemonade-change) |
 | [0867-transpose-matrix](https://github.com/VeerShah41/_Leet_Code/tree/master/0867-transpose-matrix) |
 | [0877-stone-game](https://github.com/VeerShah41/_Leet_Code/tree/master/0877-stone-game) |
+| [0896-monotonic-array](https://github.com/VeerShah41/_Leet_Code/tree/master/0896-monotonic-array) |
 | [0950-reveal-cards-in-increasing-order](https://github.com/VeerShah41/_Leet_Code/tree/master/0950-reveal-cards-in-increasing-order) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/VeerShah41/_Leet_Code/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/VeerShah41/_Leet_Code/tree/master/0977-squares-of-a-sorted-array) |
