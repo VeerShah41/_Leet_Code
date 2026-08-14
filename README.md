@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0877-stone-game](https://github.com/VeerShah41/_Leet_Code/tree/master/0877-stone-game) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/VeerShah41/_Leet_Code/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1137-n-th-tribonacci-number](https://github.com/VeerShah41/DSA_Algo/tree/master/1137-n-th-tribonacci-number) |
+| [1232-check-if-it-is-a-straight-line](https://github.com/VeerShah41/_Leet_Code/tree/master/1232-check-if-it-is-a-straight-line) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/VeerShah41/_Leet_Code/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/VeerShah41/_Leet_Code/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/VeerShah41/_Leet_Code/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
@@ -179,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/VeerShah41/_Leet_Code/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/VeerShah41/_Leet_Code/tree/master/0977-squares-of-a-sorted-array) |
 | [1051-height-checker](https://github.com/VeerShah41/_Leet_Code/tree/master/1051-height-checker) |
+| [1232-check-if-it-is-a-straight-line](https://github.com/VeerShah41/_Leet_Code/tree/master/1232-check-if-it-is-a-straight-line) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/VeerShah41/_Leet_Code/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1331-rank-transform-of-an-array](https://github.com/VeerShah41/_Leet_Code/tree/master/1331-rank-transform-of-an-array) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/VeerShah41/_Leet_Code/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
@@ -664,4 +666,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0229-majority-element-ii](https://github.com/VeerShah41/_Leet_Code/tree/master/0229-majority-element-ii) |
+## Geometry
+|  |
+| ------- |
+| [1232-check-if-it-is-a-straight-line](https://github.com/VeerShah41/_Leet_Code/tree/master/1232-check-if-it-is-a-straight-line) |
 <!---LeetCode Topics End-->
