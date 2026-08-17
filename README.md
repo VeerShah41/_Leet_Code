@@ -225,6 +225,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2605-form-smallest-number-from-two-digit-arrays](https://github.com/VeerShah41/_Leet_Code/tree/master/2605-form-smallest-number-from-two-digit-arrays) |
 | [2903-find-indices-with-index-and-value-difference-i](https://github.com/VeerShah41/_Leet_Code/tree/master/2903-find-indices-with-index-and-value-difference-i) |
 | [2942-find-words-containing-character](https://github.com/VeerShah41/_Leet_Code/tree/master/2942-find-words-containing-character) |
+| [2951-find-the-peaks](https://github.com/VeerShah41/_Leet_Code/tree/master/2951-find-the-peaks) |
 | [2974-minimum-number-game](https://github.com/VeerShah41/_Leet_Code/tree/master/2974-minimum-number-game) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/VeerShah41/_Leet_Code/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3079-find-the-sum-of-encrypted-integers](https://github.com/VeerShah41/_Leet_Code/tree/master/3079-find-the-sum-of-encrypted-integers) |
@@ -596,6 +597,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0204-count-primes](https://github.com/VeerShah41/_Leet_Code/tree/master/0204-count-primes) |
 | [2427-number-of-common-factors](https://github.com/VeerShah41/_Leet_Code/tree/master/2427-number-of-common-factors) |
 | [2605-form-smallest-number-from-two-digit-arrays](https://github.com/VeerShah41/_Leet_Code/tree/master/2605-form-smallest-number-from-two-digit-arrays) |
+| [2951-find-the-peaks](https://github.com/VeerShah41/_Leet_Code/tree/master/2951-find-the-peaks) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/VeerShah41/_Leet_Code/tree/master/3345-smallest-divisible-digit-product-i) |
 ## Number Theory
 |  |
