@@ -357,6 +357,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3146-permutation-difference-between-two-strings](https://github.com/VeerShah41/_Leet_Code/tree/master/3146-permutation-difference-between-two-strings) |
 | [3174-clear-digits](https://github.com/VeerShah41/_Leet_Code/tree/master/3174-clear-digits) |
 | [3280-convert-date-to-binary](https://github.com/VeerShah41/_Leet_Code/tree/master/3280-convert-date-to-binary) |
+| [3340-check-balanced-string](https://github.com/VeerShah41/_Leet_Code/tree/master/3340-check-balanced-string) |
 | [3442-maximum-difference-between-even-and-odd-frequency-i](https://github.com/VeerShah41/_Leet_Code/tree/master/3442-maximum-difference-between-even-and-odd-frequency-i) |
 | [3461-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/VeerShah41/_Leet_Code/tree/master/3461-check-if-digits-are-equal-in-string-after-operations-i) |
 | [3498-reverse-degree-of-a-string](https://github.com/VeerShah41/_Leet_Code/tree/master/3498-reverse-degree-of-a-string) |
