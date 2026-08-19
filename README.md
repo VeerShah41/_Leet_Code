@@ -240,6 +240,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3668-restore-finishing-order](https://github.com/VeerShah41/_Leet_Code/tree/master/3668-restore-finishing-order) |
 | [3701-compute-alternating-sum](https://github.com/VeerShah41/_Leet_Code/tree/master/3701-compute-alternating-sum) |
 | [3731-find-missing-elements](https://github.com/VeerShah41/_Leet_Code/tree/master/3731-find-missing-elements) |
+| [3745-maximize-expression-of-three-elements](https://github.com/VeerShah41/_Leet_Code/tree/master/3745-maximize-expression-of-three-elements) |
 | [3833-count-dominant-indices](https://github.com/VeerShah41/_Leet_Code/tree/master/3833-count-dominant-indices) |
 | [3838-weighted-word-mapping](https://github.com/VeerShah41/_Leet_Code/tree/master/3838-weighted-word-mapping) |
 | [3895-count-digit-appearances](https://github.com/VeerShah41/_Leet_Code/tree/master/3895-count-digit-appearances) |
@@ -457,6 +458,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3467-transform-array-by-parity](https://github.com/VeerShah41/_Leet_Code/tree/master/3467-transform-array-by-parity) |
 | [3536-maximum-product-of-two-digits](https://github.com/VeerShah41/_Leet_Code/tree/master/3536-maximum-product-of-two-digits) |
 | [3731-find-missing-elements](https://github.com/VeerShah41/_Leet_Code/tree/master/3731-find-missing-elements) |
+| [3745-maximize-expression-of-three-elements](https://github.com/VeerShah41/_Leet_Code/tree/master/3745-maximize-expression-of-three-elements) |
 ## Simulation
 |  |
 | ------- |
@@ -570,6 +572,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0860-lemonade-change](https://github.com/VeerShah41/_Leet_Code/tree/master/0860-lemonade-change) |
 | [1827-minimum-operations-to-make-the-array-increasing](https://github.com/VeerShah41/_Leet_Code/tree/master/1827-minimum-operations-to-make-the-array-increasing) |
 | [1833-maximum-ice-cream-bars](https://github.com/VeerShah41/_Leet_Code/tree/master/1833-maximum-ice-cream-bars) |
+| [3745-maximize-expression-of-three-elements](https://github.com/VeerShah41/_Leet_Code/tree/master/3745-maximize-expression-of-three-elements) |
 ## Sliding Window
 |  |
 | ------- |
@@ -601,6 +604,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2605-form-smallest-number-from-two-digit-arrays](https://github.com/VeerShah41/_Leet_Code/tree/master/2605-form-smallest-number-from-two-digit-arrays) |
 | [2951-find-the-peaks](https://github.com/VeerShah41/_Leet_Code/tree/master/2951-find-the-peaks) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/VeerShah41/_Leet_Code/tree/master/3345-smallest-divisible-digit-product-i) |
+| [3745-maximize-expression-of-three-elements](https://github.com/VeerShah41/_Leet_Code/tree/master/3745-maximize-expression-of-three-elements) |
 | [3833-count-dominant-indices](https://github.com/VeerShah41/_Leet_Code/tree/master/3833-count-dominant-indices) |
 ## Number Theory
 |  |
