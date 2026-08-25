@@ -9,8 +9,8 @@ class Solution(object):
 
         n = k
         while n in nums:
-        
-            n = k*mul
             mul+=1
+            n = k*mul
+            
         return n
         
