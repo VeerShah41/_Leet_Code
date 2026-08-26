@@ -203,6 +203,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/VeerShah41/DSA_Algo/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [1732-find-the-highest-altitude](https://github.com/VeerShah41/_Leet_Code/tree/master/1732-find-the-highest-altitude) |
 | [1748-sum-of-unique-elements](https://github.com/VeerShah41/_Leet_Code/tree/master/1748-sum-of-unique-elements) |
+| [1773-count-items-matching-a-rule](https://github.com/VeerShah41/_Leet_Code/tree/master/1773-count-items-matching-a-rule) |
 | [1816-truncate-sentence](https://github.com/VeerShah41/_Leet_Code/tree/master/1816-truncate-sentence) |
 | [1827-minimum-operations-to-make-the-array-increasing](https://github.com/VeerShah41/_Leet_Code/tree/master/1827-minimum-operations-to-make-the-array-increasing) |
 | [1833-maximum-ice-cream-bars](https://github.com/VeerShah41/_Leet_Code/tree/master/1833-maximum-ice-cream-bars) |
@@ -349,6 +350,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1684-count-the-number-of-consistent-strings](https://github.com/VeerShah41/_Leet_Code/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1704-determine-if-string-halves-are-alike](https://github.com/VeerShah41/_Leet_Code/tree/master/1704-determine-if-string-halves-are-alike) |
 | [1768-merge-strings-alternately](https://github.com/VeerShah41/_Leet_Code/tree/master/1768-merge-strings-alternately) |
+| [1773-count-items-matching-a-rule](https://github.com/VeerShah41/_Leet_Code/tree/master/1773-count-items-matching-a-rule) |
 | [1816-truncate-sentence](https://github.com/VeerShah41/_Leet_Code/tree/master/1816-truncate-sentence) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/VeerShah41/_Leet_Code/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [1844-replace-all-digits-with-characters](https://github.com/VeerShah41/_Leet_Code/tree/master/1844-replace-all-digits-with-characters) |
