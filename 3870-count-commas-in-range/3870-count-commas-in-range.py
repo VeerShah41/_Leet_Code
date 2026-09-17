@@ -6,6 +6,5 @@ class Solution(object):
         """
         if n<1000:
             return 0
-        x = n-999
-        return x
+        return n-999
             
