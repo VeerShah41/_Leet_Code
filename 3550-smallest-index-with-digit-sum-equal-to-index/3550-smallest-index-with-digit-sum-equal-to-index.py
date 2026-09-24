@@ -5,15 +5,12 @@ class Solution(object):
         :rtype: int
         """
         for i in range(len(nums)):
-            if nums[i]<10:
-                if i==nums[i]:
-                    return i
-            else:
-                n = str(nums[i])
-                s = 0
-                for j in n:
-                    s+=int(j)
-                if s==i:
-                    return s
+            ans = 0
+            x = nums[i]
+            while x:
+                ans+=x%10
+                x//=10
+            if ans == i:
+                return i
             
         return -1
