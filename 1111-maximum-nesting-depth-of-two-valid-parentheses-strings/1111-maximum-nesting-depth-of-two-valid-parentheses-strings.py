@@ -7,8 +7,8 @@ class Solution(object):
         n = len(seq)
         ans = [0]*n
         x = 0
-        for i,j in enumerate(seq):
-            if j=="(":
+        for i in range(n):
+            if seq[i]=="(":
                 x+=1
                 ans[i]=x%2
             else:
