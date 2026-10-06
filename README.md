@@ -104,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0225-implement-stack-using-queues](https://github.com/VeerShah41/DSA_Algo/tree/master/0225-implement-stack-using-queues) |
 | [0227-basic-calculator-ii](https://github.com/VeerShah41/_Leet_Code/tree/master/0227-basic-calculator-ii) |
 | [0232-implement-queue-using-stacks](https://github.com/VeerShah41/DSA_Algo/tree/master/0232-implement-queue-using-stacks) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/VeerShah41/_Leet_Code/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/VeerShah41/_Leet_Code/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/VeerShah41/_Leet_Code/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/VeerShah41/DSA_Algo/tree/master/1700-number-of-students-unable-to-eat-lunch) |
@@ -351,6 +352,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0771-jewels-and-stones](https://github.com/VeerShah41/_Leet_Code/tree/master/0771-jewels-and-stones) |
 | [0796-rotate-string](https://github.com/VeerShah41/_Leet_Code/tree/master/0796-rotate-string) |
 | [0819-most-common-word](https://github.com/VeerShah41/_Leet_Code/tree/master/0819-most-common-word) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/VeerShah41/_Leet_Code/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/VeerShah41/_Leet_Code/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1108-defanging-an-ip-address](https://github.com/VeerShah41/_Leet_Code/tree/master/1108-defanging-an-ip-address) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/VeerShah41/_Leet_Code/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
@@ -599,6 +601,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0134-gas-station](https://github.com/VeerShah41/DSA_Algo/tree/master/0134-gas-station) |
 | [0179-largest-number](https://github.com/VeerShah41/_Leet_Code/tree/master/0179-largest-number) |
 | [0860-lemonade-change](https://github.com/VeerShah41/_Leet_Code/tree/master/0860-lemonade-change) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/VeerShah41/_Leet_Code/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1827-minimum-operations-to-make-the-array-increasing](https://github.com/VeerShah41/_Leet_Code/tree/master/1827-minimum-operations-to-make-the-array-increasing) |
 | [1833-maximum-ice-cream-bars](https://github.com/VeerShah41/_Leet_Code/tree/master/1833-maximum-ice-cream-bars) |
 | [3745-maximize-expression-of-three-elements](https://github.com/VeerShah41/_Leet_Code/tree/master/3745-maximize-expression-of-three-elements) |
@@ -739,6 +742,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/VeerShah41/_Leet_Code/tree/master/0020-valid-parentheses) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/VeerShah41/_Leet_Code/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/VeerShah41/_Leet_Code/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/VeerShah41/_Leet_Code/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 <!---LeetCode Topics End-->
