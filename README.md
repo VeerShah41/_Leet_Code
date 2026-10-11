@@ -236,6 +236,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2574-left-and-right-sum-differences](https://github.com/VeerShah41/_Leet_Code/tree/master/2574-left-and-right-sum-differences) |
 | [2586-count-the-number-of-vowel-strings-in-range](https://github.com/VeerShah41/_Leet_Code/tree/master/2586-count-the-number-of-vowel-strings-in-range) |
 | [2605-form-smallest-number-from-two-digit-arrays](https://github.com/VeerShah41/_Leet_Code/tree/master/2605-form-smallest-number-from-two-digit-arrays) |
+| [2778-sum-of-squares-of-special-elements](https://github.com/VeerShah41/_Leet_Code/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2903-find-indices-with-index-and-value-difference-i](https://github.com/VeerShah41/_Leet_Code/tree/master/2903-find-indices-with-index-and-value-difference-i) |
 | [2942-find-words-containing-character](https://github.com/VeerShah41/_Leet_Code/tree/master/2942-find-words-containing-character) |
 | [2951-find-the-peaks](https://github.com/VeerShah41/_Leet_Code/tree/master/2951-find-the-peaks) |
@@ -635,6 +636,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0204-count-primes](https://github.com/VeerShah41/_Leet_Code/tree/master/0204-count-primes) |
 | [2427-number-of-common-factors](https://github.com/VeerShah41/_Leet_Code/tree/master/2427-number-of-common-factors) |
 | [2605-form-smallest-number-from-two-digit-arrays](https://github.com/VeerShah41/_Leet_Code/tree/master/2605-form-smallest-number-from-two-digit-arrays) |
+| [2778-sum-of-squares-of-special-elements](https://github.com/VeerShah41/_Leet_Code/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2951-find-the-peaks](https://github.com/VeerShah41/_Leet_Code/tree/master/2951-find-the-peaks) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/VeerShah41/_Leet_Code/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3745-maximize-expression-of-three-elements](https://github.com/VeerShah41/_Leet_Code/tree/master/3745-maximize-expression-of-three-elements) |
