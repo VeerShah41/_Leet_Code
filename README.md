@@ -255,6 +255,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3668-restore-finishing-order](https://github.com/VeerShah41/_Leet_Code/tree/master/3668-restore-finishing-order) |
 | [3701-compute-alternating-sum](https://github.com/VeerShah41/_Leet_Code/tree/master/3701-compute-alternating-sum) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/VeerShah41/_Leet_Code/tree/master/3718-smallest-missing-multiple-of-k) |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/VeerShah41/_Leet_Code/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3731-find-missing-elements](https://github.com/VeerShah41/_Leet_Code/tree/master/3731-find-missing-elements) |
 | [3745-maximize-expression-of-three-elements](https://github.com/VeerShah41/_Leet_Code/tree/master/3745-maximize-expression-of-three-elements) |
 | [3833-count-dominant-indices](https://github.com/VeerShah41/_Leet_Code/tree/master/3833-count-dominant-indices) |
@@ -488,6 +489,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/VeerShah41/_Leet_Code/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3467-transform-array-by-parity](https://github.com/VeerShah41/_Leet_Code/tree/master/3467-transform-array-by-parity) |
 | [3536-maximum-product-of-two-digits](https://github.com/VeerShah41/_Leet_Code/tree/master/3536-maximum-product-of-two-digits) |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/VeerShah41/_Leet_Code/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3731-find-missing-elements](https://github.com/VeerShah41/_Leet_Code/tree/master/3731-find-missing-elements) |
 | [3745-maximize-expression-of-three-elements](https://github.com/VeerShah41/_Leet_Code/tree/master/3745-maximize-expression-of-three-elements) |
 ## Simulation
@@ -608,6 +610,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/VeerShah41/_Leet_Code/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1827-minimum-operations-to-make-the-array-increasing](https://github.com/VeerShah41/_Leet_Code/tree/master/1827-minimum-operations-to-make-the-array-increasing) |
 | [1833-maximum-ice-cream-bars](https://github.com/VeerShah41/_Leet_Code/tree/master/1833-maximum-ice-cream-bars) |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/VeerShah41/_Leet_Code/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3745-maximize-expression-of-three-elements](https://github.com/VeerShah41/_Leet_Code/tree/master/3745-maximize-expression-of-three-elements) |
 ## Sliding Window
 |  |
