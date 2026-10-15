@@ -239,6 +239,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2605-form-smallest-number-from-two-digit-arrays](https://github.com/VeerShah41/_Leet_Code/tree/master/2605-form-smallest-number-from-two-digit-arrays) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/VeerShah41/_Leet_Code/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2903-find-indices-with-index-and-value-difference-i](https://github.com/VeerShah41/_Leet_Code/tree/master/2903-find-indices-with-index-and-value-difference-i) |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/VeerShah41/_Leet_Code/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2942-find-words-containing-character](https://github.com/VeerShah41/_Leet_Code/tree/master/2942-find-words-containing-character) |
 | [2951-find-the-peaks](https://github.com/VeerShah41/_Leet_Code/tree/master/2951-find-the-peaks) |
 | [2974-minimum-number-game](https://github.com/VeerShah41/_Leet_Code/tree/master/2974-minimum-number-game) |
@@ -316,6 +317,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/VeerShah41/_Leet_Code/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
 | [2540-minimum-common-value](https://github.com/VeerShah41/_Leet_Code/tree/master/2540-minimum-common-value) |
 | [2605-form-smallest-number-from-two-digit-arrays](https://github.com/VeerShah41/_Leet_Code/tree/master/2605-form-smallest-number-from-two-digit-arrays) |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/VeerShah41/_Leet_Code/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/VeerShah41/_Leet_Code/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3146-permutation-difference-between-two-strings](https://github.com/VeerShah41/_Leet_Code/tree/master/3146-permutation-difference-between-two-strings) |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/VeerShah41/_Leet_Code/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
@@ -755,4 +757,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/VeerShah41/_Leet_Code/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/VeerShah41/_Leet_Code/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/VeerShah41/_Leet_Code/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/VeerShah41/_Leet_Code/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
+## Segment Tree
+|  |
+| ------- |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/VeerShah41/_Leet_Code/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 <!---LeetCode Topics End-->
