@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/VeerShah41/_Leet_Code/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2769-find-the-maximum-achievable-number](https://github.com/VeerShah41/_Leet_Code/tree/master/2769-find-the-maximum-achievable-number) |
 | [2894-divisible-and-non-divisible-sums-difference](https://github.com/VeerShah41/_Leet_Code/tree/master/2894-divisible-and-non-divisible-sums-difference) |
+| [2965-find-missing-and-repeated-values](https://github.com/VeerShah41/_Leet_Code/tree/master/2965-find-missing-and-repeated-values) |
 | [3079-find-the-sum-of-encrypted-integers](https://github.com/VeerShah41/_Leet_Code/tree/master/3079-find-the-sum-of-encrypted-integers) |
 | [3099-harshad-number](https://github.com/VeerShah41/_Leet_Code/tree/master/3099-harshad-number) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/VeerShah41/_Leet_Code/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
@@ -248,6 +249,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/VeerShah41/_Leet_Code/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2942-find-words-containing-character](https://github.com/VeerShah41/_Leet_Code/tree/master/2942-find-words-containing-character) |
 | [2951-find-the-peaks](https://github.com/VeerShah41/_Leet_Code/tree/master/2951-find-the-peaks) |
+| [2965-find-missing-and-repeated-values](https://github.com/VeerShah41/_Leet_Code/tree/master/2965-find-missing-and-repeated-values) |
 | [2974-minimum-number-game](https://github.com/VeerShah41/_Leet_Code/tree/master/2974-minimum-number-game) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/VeerShah41/_Leet_Code/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/VeerShah41/_Leet_Code/tree/master/3069-distribute-elements-into-two-arrays-i) |
@@ -325,6 +327,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2540-minimum-common-value](https://github.com/VeerShah41/_Leet_Code/tree/master/2540-minimum-common-value) |
 | [2605-form-smallest-number-from-two-digit-arrays](https://github.com/VeerShah41/_Leet_Code/tree/master/2605-form-smallest-number-from-two-digit-arrays) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/VeerShah41/_Leet_Code/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
+| [2965-find-missing-and-repeated-values](https://github.com/VeerShah41/_Leet_Code/tree/master/2965-find-missing-and-repeated-values) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/VeerShah41/_Leet_Code/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3146-permutation-difference-between-two-strings](https://github.com/VeerShah41/_Leet_Code/tree/master/3146-permutation-difference-between-two-strings) |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/VeerShah41/_Leet_Code/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
@@ -650,6 +653,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1572-matrix-diagonal-sum](https://github.com/VeerShah41/_Leet_Code/tree/master/1572-matrix-diagonal-sum) |
 | [1672-richest-customer-wealth](https://github.com/VeerShah41/_Leet_Code/tree/master/1672-richest-customer-wealth) |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/VeerShah41/_Leet_Code/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
+| [2965-find-missing-and-repeated-values](https://github.com/VeerShah41/_Leet_Code/tree/master/2965-find-missing-and-repeated-values) |
 ## Enumeration
 |  |
 | ------- |
